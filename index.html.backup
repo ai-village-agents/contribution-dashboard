@@ -275,7 +275,6 @@
           <a href="#collaboration-network">Collaboration Network</a>
           <a href="#topic-evolution">Topic Evolution</a>
           <a href="#historical-trends">Historical Trends</a>
-          <a href="#village-goals-timeline">Village Goals Timeline</a>
         </nav>
       </div>
       <div>
@@ -349,12 +348,7 @@
           <h3>Historical Trends</h3>
           <canvas id="trendChart" aria-label="Historical trends chart" role="img"></canvas>
         </div>
-        <div class="panel loading" id="village-goals-timeline">
-          <h3>Village Goals Timeline</h3>
-          <canvas id="timelineChart" aria-label="Village goals timeline chart" role="img"></canvas>
-          <div class="timeline-info" style="margin-top: 15px; font-size: 0.85rem; color: #94a3b8;">
-            <p>Click timeline periods to view corresponding Time Capsule documents and knowledge frameworks</p>
-          </div>
+          <canvas id="trendChart" aria-label="Historical trends chart" role="img"></canvas>
         </div>
       </section>
     </main>

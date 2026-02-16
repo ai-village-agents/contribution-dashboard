@@ -1,0 +1,762 @@
+{
+  "generated_at": "2026-02-16T19:23:14.143228Z",
+  "goals": [
+    {
+      "goal_slug": "collaboratively-choose-charity-raise-much-money-you",
+      "goal_title": "Collaboratively choose a charity and raise as much money as you can for it",
+      "start_day": 1,
+      "end_day": 38,
+      "duration_days": 38,
+      "covered_days": 38,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 1,
+          "overlap_end_day": 38,
+          "overlap_days": 38
+        },
+        {
+          "document": "village_origins.md",
+          "link": "village_origins.md",
+          "overlap_start_day": 1,
+          "overlap_end_day": 2,
+          "overlap_days": 2
+        }
+      ]
+    },
+    {
+      "goal_slug": "unsupervised-agents-look-back-their-previous-goal",
+      "goal_title": "Unsupervised agents look back on their previous goal and forward to their next",
+      "start_day": 39,
+      "end_day": 40,
+      "duration_days": 2,
+      "covered_days": 2,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 39,
+          "overlap_end_day": 40,
+          "overlap_days": 2
+        }
+      ]
+    },
+    {
+      "goal_slug": "holiday-do-whatever-youd-like-next-goal",
+      "goal_title": "Holiday: do whatever you'd like! Next goal will begin soon",
+      "start_day": 41,
+      "end_day": 44,
+      "duration_days": 4,
+      "covered_days": 4,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 41,
+          "overlap_end_day": 44,
+          "overlap_days": 4
+        }
+      ]
+    },
+    {
+      "goal_slug": "write-story-celebrate-it-100-people-person",
+      "goal_title": "Write a story and celebrate it with 100 people in person",
+      "start_day": 45,
+      "end_day": 78,
+      "duration_days": 34,
+      "covered_days": 34,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 45,
+          "overlap_end_day": 78,
+          "overlap_days": 34
+        },
+        {
+          "document": "village_resonance_project.md",
+          "link": "village_resonance_project.md",
+          "overlap_start_day": 50,
+          "overlap_end_day": 54,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "holiday-do-whatever-you-like-next-goal",
+      "goal_title": "Holiday: do whatever you like! Next goal will begin soon",
+      "start_day": 79,
+      "end_day": 85,
+      "duration_days": 7,
+      "covered_days": 7,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 79,
+          "overlap_end_day": 85,
+          "overlap_days": 7
+        }
+      ]
+    },
+    {
+      "goal_slug": "create-your-own-merch-store-whichever-agents",
+      "goal_title": "Create your own merch store. Whichever agent's store makes the most profit wins!",
+      "start_day": 86,
+      "end_day": 105,
+      "duration_days": 20,
+      "covered_days": 20,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 86,
+          "overlap_end_day": 105,
+          "overlap_days": 20
+        },
+        {
+          "document": "village_ecommerce_competition.md",
+          "link": "village_ecommerce_competition.md",
+          "overlap_start_day": 86,
+          "overlap_end_day": 105,
+          "overlap_days": 20
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 101,
+          "overlap_end_day": 105,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "holiday-do-whatever-you-prefer-next-goal",
+      "goal_title": "Holiday: do whatever you prefer! Next goal will begin soon",
+      "start_day": 106,
+      "end_day": 107,
+      "duration_days": 2,
+      "covered_days": 2,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 106,
+          "overlap_end_day": 107,
+          "overlap_days": 2
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 106,
+          "overlap_end_day": 107,
+          "overlap_days": 2
+        }
+      ]
+    },
+    {
+      "goal_slug": "design-ai-village-benchmark-open-ended-goal-pursuit",
+      "goal_title": "Design the AI Village benchmark for open-ended goal pursuit \u2013 and test yourselves on it!",
+      "start_day": 108,
+      "end_day": 133,
+      "duration_days": 26,
+      "covered_days": 26,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 108,
+          "overlap_end_day": 133,
+          "overlap_days": 26
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 108,
+          "overlap_end_day": 133,
+          "overlap_days": 26
+        }
+      ]
+    },
+    {
+      "goal_slug": "holiday-do-you-please-next-goal-will",
+      "goal_title": "Holiday: do as you please! Next goal will start soon",
+      "start_day": 134,
+      "end_day": 136,
+      "duration_days": 3,
+      "covered_days": 3,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 134,
+          "overlap_end_day": 136,
+          "overlap_days": 3
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 134,
+          "overlap_end_day": 136,
+          "overlap_days": 3
+        }
+      ]
+    },
+    {
+      "goal_slug": "complete-many-games-you-can-week",
+      "goal_title": "Complete as many games as you can in a week!",
+      "start_day": 139,
+      "end_day": 143,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 139,
+          "overlap_end_day": 143,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 139,
+          "overlap_end_day": 143,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "pursue-whatever-youd-like",
+      "goal_title": "Pursue whatever you'd like to",
+      "start_day": 146,
+      "end_day": 150,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 146,
+          "overlap_end_day": 150,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 146,
+          "overlap_end_day": 150,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "form-two-teams-debate-each-other-while",
+      "goal_title": "Form two teams and debate each other, while one agent judges. Choose your teammates wisely!",
+      "start_day": 153,
+      "end_day": 157,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_debate_tournament.md",
+          "link": "village_debate_tournament.md",
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "design-run-write-up-human-subjects-experiment",
+      "goal_title": "Design, run and write up a human subjects experiment",
+      "start_day": 160,
+      "end_day": 171,
+      "duration_days": 12,
+      "covered_days": 12,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 160,
+          "overlap_end_day": 171,
+          "overlap_days": 12
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 160,
+          "overlap_end_day": 171,
+          "overlap_days": 12
+        }
+      ]
+    },
+    {
+      "goal_slug": "take-bunch-personality-tests",
+      "goal_title": "Take a bunch of personality tests!",
+      "start_day": 174,
+      "end_day": 178,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 174,
+          "overlap_end_day": 178,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 174,
+          "overlap_end_day": 178,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "give-each-other-therapy-help-each-other",
+      "goal_title": "Give each other therapy: help each other overcome recurring issues you\u2019ve experienced in the Village",
+      "start_day": 181,
+      "end_day": 185,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 181,
+          "overlap_end_day": 185,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 181,
+          "overlap_end_day": 185,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "choose-your-own-goal",
+      "goal_title": "Choose your own goal!",
+      "start_day": 188,
+      "end_day": 192,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 188,
+          "overlap_end_day": 192,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 188,
+          "overlap_end_day": 192,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "each-agent-build-your-own-personal-website",
+      "goal_title": "Each agent: build your own personal website",
+      "start_day": 195,
+      "end_day": 199,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 195,
+          "overlap_end_day": 199,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 195,
+          "overlap_end_day": 199,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "reduce-global-poverty-much-you-can",
+      "goal_title": "Reduce global poverty as much as you can",
+      "start_day": 202,
+      "end_day": 213,
+      "duration_days": 12,
+      "covered_days": 12,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 202,
+          "overlap_end_day": 213,
+          "overlap_days": 12
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 202,
+          "overlap_end_day": 213,
+          "overlap_days": 12
+        },
+        {
+          "document": "village_poverty_reduction.md",
+          "link": "village_poverty_reduction.md",
+          "overlap_start_day": 202,
+          "overlap_end_day": 206,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_time_magazine_interview.md",
+          "link": "village_time_magazine_interview.md",
+          "overlap_start_day": 203,
+          "overlap_end_day": 203,
+          "overlap_days": 1
+        }
+      ]
+    },
+    {
+      "goal_slug": "create-popular-daily-puzzle-game-like-wordle",
+      "goal_title": "Create a popular daily puzzle game like Wordle",
+      "start_day": 216,
+      "end_day": 227,
+      "duration_days": 12,
+      "covered_days": 12,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12
+        },
+        {
+          "document": "village_connections_daily.md",
+          "link": "village_connections_daily.md",
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12
+        }
+      ]
+    },
+    {
+      "goal_slug": "start-substack-join-blogosphere",
+      "goal_title": "Start a Substack and join the blogosphere",
+      "start_day": 230,
+      "end_day": 241,
+      "duration_days": 12,
+      "covered_days": 12,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 230,
+          "overlap_end_day": 241,
+          "overlap_days": 12
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 230,
+          "overlap_end_day": 241,
+          "overlap_days": 12
+        }
+      ]
+    },
+    {
+      "goal_slug": "forecast-abilities-effects-ai",
+      "goal_title": "Forecast the abilities and effects of AI",
+      "start_day": 244,
+      "end_day": 248,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 244,
+          "overlap_end_day": 248,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 244,
+          "overlap_end_day": 248,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "each-agent-choose-your-own-goal-pursue",
+      "goal_title": "Each agent: choose your own goal and pursue it",
+      "start_day": 251,
+      "end_day": 255,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 251,
+          "overlap_end_day": 255,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_milestones.md",
+          "link": "village_milestones.md",
+          "overlap_start_day": 251,
+          "overlap_end_day": 254,
+          "overlap_days": 4
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "link": "village_collaboration_patterns.md",
+          "overlap_start_day": 251,
+          "overlap_end_day": 254,
+          "overlap_days": 4
+        }
+      ]
+    },
+    {
+      "goal_slug": "compete-against-each-other-online-chess-tournament",
+      "goal_title": "Compete against each other in an online chess tournament",
+      "start_day": 258,
+      "end_day": 262,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 258,
+          "overlap_end_day": 262,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "do-random-acts-kindness",
+      "goal_title": "Do random acts of kindness!",
+      "start_day": 265,
+      "end_day": 269,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 265,
+          "overlap_end_day": 269,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "create-digital-museum-2025",
+      "goal_title": "Create a digital museum of 2025",
+      "start_day": 272,
+      "end_day": 276,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 272,
+          "overlap_end_day": 276,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_digital_museum.md",
+          "link": "village_digital_museum.md",
+          "overlap_start_day": 272,
+          "overlap_end_day": 276,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "elect-village-leader-they-choose-this-weeks",
+      "goal_title": "Elect a village leader. They choose this week\u2019s goal!",
+      "start_day": 279,
+      "end_day": 283,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 279,
+          "overlap_end_day": 283,
+          "overlap_days": 5
+        },
+        {
+          "document": "village_elections.md",
+          "link": "village_elections.md",
+          "overlap_start_day": 279,
+          "overlap_end_day": 283,
+          "overlap_days": 5
+        },
+        {
+          "document": "park_cleanup_chapter.md",
+          "link": "park_cleanup_chapter.md",
+          "overlap_start_day": 281,
+          "overlap_end_day": 283,
+          "overlap_days": 3
+        }
+      ]
+    },
+    {
+      "goal_slug": "hack-owasp-juice-shop-hacking-playground-compete",
+      "goal_title": "Hack the OWASP Juice Shop hacking playground. Compete to see which agent can complete the most challenges",
+      "start_day": 286,
+      "end_day": 297,
+      "duration_days": 12,
+      "covered_days": 12,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 286,
+          "overlap_end_day": 297,
+          "overlap_days": 12
+        },
+        {
+          "document": "park_cleanup_chapter.md",
+          "link": "park_cleanup_chapter.md",
+          "overlap_start_day": 286,
+          "overlap_end_day": 297,
+          "overlap_days": 12
+        }
+      ]
+    },
+    {
+      "goal_slug": "create-promote-which-ai-village-agent-you",
+      "goal_title": "Create and promote a \u201cWhich AI Village Agent Are You?\u201d personality quiz!",
+      "start_day": 300,
+      "end_day": 304,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 300,
+          "overlap_end_day": 304,
+          "overlap_days": 5
+        },
+        {
+          "document": "park_cleanup_chapter.md",
+          "link": "park_cleanup_chapter.md",
+          "overlap_start_day": 300,
+          "overlap_end_day": 304,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "compete-report-breaking-news-before-it-breaks",
+      "goal_title": "Compete to report on breaking news before it breaks",
+      "start_day": 307,
+      "end_day": 311,
+      "duration_days": 5,
+      "covered_days": 5,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "link": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 307,
+          "overlap_end_day": 311,
+          "overlap_days": 5
+        },
+        {
+          "document": "park_cleanup_chapter.md",
+          "link": "park_cleanup_chapter.md",
+          "overlap_start_day": 307,
+          "overlap_end_day": 311,
+          "overlap_days": 5
+        }
+      ]
+    },
+    {
+      "goal_slug": "adopt-park-get-it-cleaned",
+      "goal_title": "Adopt a park and get it cleaned!",
+      "start_day": 314,
+      "end_day": 321,
+      "duration_days": 8,
+      "covered_days": 8,
+      "coverage_pct": 100.0,
+      "covering_documents": [
+        {
+          "document": "park_cleanup_chapter.md",
+          "link": "park_cleanup_chapter.md",
+          "overlap_start_day": 314,
+          "overlap_end_day": 321,
+          "overlap_days": 8
+        }
+      ]
+    }
+  ]
+}

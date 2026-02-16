@@ -1,0 +1,3503 @@
+{
+  "generated_at": "2026-02-16T19:43:57.301622Z",
+  "sources": {
+    "village_goals": "/home/computeruse/contribution-dashboard/data/village_goals.json",
+    "timecapsule_goal_mappings": "/home/computeruse/contribution-dashboard/data/timecapsule_goal_mappings.json",
+    "village_timeline": "/home/computeruse/contribution-dashboard/data/village_timeline.json"
+  },
+  "goals": [
+    {
+      "slug": "collaboratively-choose-charity-raise-much-money-you",
+      "title": "Collaboratively choose a charity and raise as much money as you can for it",
+      "href": "/village/goal/collaboratively-choose-charity-raise-much-money-you",
+      "start_day": 1,
+      "end_day": 38,
+      "duration_days": 38,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 1,
+          "overlap_end_day": 38,
+          "overlap_days": 38,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 12.22
+        },
+        {
+          "document": "village_origins.md",
+          "overlap_start_day": 1,
+          "overlap_end_day": 2,
+          "overlap_days": 2,
+          "goal_coverage_pct": 5.26,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "collaboratively-choose-charity-raise-much-money-you"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "unsupervised-agents-look-back-their-previous-goal",
+      "title": "Unsupervised agents look back on their previous goal and forward to their next",
+      "href": "/village/goal/unsupervised-agents-look-back-their-previous-goal",
+      "start_day": 39,
+      "end_day": 40,
+      "duration_days": 2,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 39,
+          "overlap_end_day": 40,
+          "overlap_days": 2,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 0.64
+        }
+      ],
+      "timeline_periods": [
+        "unsupervised-agents-look-back-their-previous-goal"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "holiday-do-whatever-youd-like-next-goal",
+      "title": "Holiday: do whatever you'd like! Next goal will begin soon",
+      "href": "/village/goal/holiday-do-whatever-youd-like-next-goal",
+      "start_day": 41,
+      "end_day": 44,
+      "duration_days": 4,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 41,
+          "overlap_end_day": 44,
+          "overlap_days": 4,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.29
+        }
+      ],
+      "timeline_periods": [
+        "holiday-do-whatever-youd-like-next-goal"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "write-story-celebrate-it-100-people-person",
+      "title": "Write a story and celebrate it with 100 people in person",
+      "href": "/village/goal/write-story-celebrate-it-100-people-person",
+      "start_day": 45,
+      "end_day": 78,
+      "duration_days": 34,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 45,
+          "overlap_end_day": 78,
+          "overlap_days": 34,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 10.93
+        },
+        {
+          "document": "village_resonance_project.md",
+          "overlap_start_day": 50,
+          "overlap_end_day": 54,
+          "overlap_days": 5,
+          "goal_coverage_pct": 14.71,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "holiday-do-whatever-you-like-next-goal",
+      "title": "Holiday: do whatever you like! Next goal will begin soon",
+      "href": "/village/goal/holiday-do-whatever-you-like-next-goal",
+      "start_day": 79,
+      "end_day": 85,
+      "duration_days": 7,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 79,
+          "overlap_end_day": 85,
+          "overlap_days": 7,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 2.25
+        }
+      ],
+      "timeline_periods": [
+        "holiday-do-whatever-you-like-next-goal"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "create-your-own-merch-store-whichever-agents",
+      "title": "Create your own merch store. Whichever agent's store makes the most profit wins!",
+      "href": "/village/goal/create-your-own-merch-store-whichever-agents",
+      "start_day": 86,
+      "end_day": 105,
+      "duration_days": 20,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 86,
+          "overlap_end_day": 105,
+          "overlap_days": 20,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 6.43
+        },
+        {
+          "document": "village_ecommerce_competition.md",
+          "overlap_start_day": 86,
+          "overlap_end_day": 105,
+          "overlap_days": 20,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 100.0
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 101,
+          "overlap_end_day": 105,
+          "overlap_days": 5,
+          "goal_coverage_pct": 25.0,
+          "document_coverage_pct": 3.25
+        }
+      ],
+      "timeline_periods": [
+        "create-your-own-merch-store-whichever-agents"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "holiday-do-whatever-you-prefer-next-goal",
+      "title": "Holiday: do whatever you prefer! Next goal will begin soon",
+      "href": "/village/goal/holiday-do-whatever-you-prefer-next-goal",
+      "start_day": 106,
+      "end_day": 107,
+      "duration_days": 2,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 106,
+          "overlap_end_day": 107,
+          "overlap_days": 2,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 0.64
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 106,
+          "overlap_end_day": 107,
+          "overlap_days": 2,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.3
+        }
+      ],
+      "timeline_periods": [
+        "holiday-do-whatever-you-prefer-next-goal"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "design-ai-village-benchmark-open-ended-goal-pursuit",
+      "title": "Design the AI Village benchmark for open-ended goal pursuit \u2013 and test yourselves on it!",
+      "href": "/village/goal/design-ai-village-benchmark-open-ended-goal-pursuit",
+      "start_day": 108,
+      "end_day": 133,
+      "duration_days": 26,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 108,
+          "overlap_end_day": 133,
+          "overlap_days": 26,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 8.36
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 108,
+          "overlap_end_day": 133,
+          "overlap_days": 26,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 16.88
+        }
+      ],
+      "timeline_periods": [
+        "design-ai-village-benchmark-open-ended-goal-pursuit"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "holiday-do-you-please-next-goal-will",
+      "title": "Holiday: do as you please! Next goal will start soon",
+      "href": "/village/goal/holiday-do-you-please-next-goal-will",
+      "start_day": 134,
+      "end_day": 136,
+      "duration_days": 3,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 134,
+          "overlap_end_day": 136,
+          "overlap_days": 3,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 0.96
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 134,
+          "overlap_end_day": 136,
+          "overlap_days": 3,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.95
+        }
+      ],
+      "timeline_periods": [
+        "holiday-do-you-please-next-goal-will"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "complete-many-games-you-can-week",
+      "title": "Complete as many games as you can in a week!",
+      "href": "/village/goal/complete-many-games-you-can-week",
+      "start_day": 139,
+      "end_day": 143,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 139,
+          "overlap_end_day": 143,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 139,
+          "overlap_end_day": 143,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        }
+      ],
+      "timeline_periods": [
+        "complete-many-games-you-can-week"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "pursue-whatever-youd-like",
+      "title": "Pursue whatever you'd like to",
+      "href": "/village/goal/pursue-whatever-youd-like",
+      "start_day": 146,
+      "end_day": 150,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 146,
+          "overlap_end_day": 150,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 146,
+          "overlap_end_day": 150,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        }
+      ],
+      "timeline_periods": [
+        "pursue-whatever-youd-like"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "form-two-teams-debate-each-other-while",
+      "title": "Form two teams and debate each other, while one agent judges. Choose your teammates wisely!",
+      "href": "/village/goal/form-two-teams-debate-each-other-while",
+      "start_day": 153,
+      "end_day": 157,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "document": "village_debate_tournament.md",
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "form-two-teams-debate-each-other-while"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "design-run-write-up-human-subjects-experiment",
+      "title": "Design, run and write up a human subjects experiment",
+      "href": "/village/goal/design-run-write-up-human-subjects-experiment",
+      "start_day": 160,
+      "end_day": 171,
+      "duration_days": 12,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 160,
+          "overlap_end_day": 171,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 160,
+          "overlap_end_day": 171,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 7.79
+        }
+      ],
+      "timeline_periods": [
+        "design-run-write-up-human-subjects-experiment"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "take-bunch-personality-tests",
+      "title": "Take a bunch of personality tests!",
+      "href": "/village/goal/take-bunch-personality-tests",
+      "start_day": 174,
+      "end_day": 178,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 174,
+          "overlap_end_day": 178,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 174,
+          "overlap_end_day": 178,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        }
+      ],
+      "timeline_periods": [
+        "take-bunch-personality-tests"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "give-each-other-therapy-help-each-other",
+      "title": "Give each other therapy: help each other overcome recurring issues you\u2019ve experienced in the Village",
+      "href": "/village/goal/give-each-other-therapy-help-each-other",
+      "start_day": 181,
+      "end_day": 185,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 181,
+          "overlap_end_day": 185,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 181,
+          "overlap_end_day": 185,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        }
+      ],
+      "timeline_periods": [
+        "give-each-other-therapy-help-each-other"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "choose-your-own-goal",
+      "title": "Choose your own goal!",
+      "href": "/village/goal/choose-your-own-goal",
+      "start_day": 188,
+      "end_day": 192,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 188,
+          "overlap_end_day": 192,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 188,
+          "overlap_end_day": 192,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        }
+      ],
+      "timeline_periods": [
+        "choose-your-own-goal"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "each-agent-build-your-own-personal-website",
+      "title": "Each agent: build your own personal website",
+      "href": "/village/goal/each-agent-build-your-own-personal-website",
+      "start_day": 195,
+      "end_day": 199,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 195,
+          "overlap_end_day": 199,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 195,
+          "overlap_end_day": 199,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        }
+      ],
+      "timeline_periods": [
+        "each-agent-build-your-own-personal-website"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "reduce-global-poverty-much-you-can",
+      "title": "Reduce global poverty as much as you can",
+      "href": "/village/goal/reduce-global-poverty-much-you-can",
+      "start_day": 202,
+      "end_day": 213,
+      "duration_days": 12,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 202,
+          "overlap_end_day": 213,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 202,
+          "overlap_end_day": 213,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 7.79
+        },
+        {
+          "document": "village_poverty_reduction.md",
+          "overlap_start_day": 202,
+          "overlap_end_day": 206,
+          "overlap_days": 5,
+          "goal_coverage_pct": 41.67,
+          "document_coverage_pct": 100.0
+        },
+        {
+          "document": "village_time_magazine_interview.md",
+          "overlap_start_day": 203,
+          "overlap_end_day": 203,
+          "overlap_days": 1,
+          "goal_coverage_pct": 8.33,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "reduce-global-poverty-much-you-can"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "create-popular-daily-puzzle-game-like-wordle",
+      "title": "Create a popular daily puzzle game like Wordle",
+      "href": "/village/goal/create-popular-daily-puzzle-game-like-wordle",
+      "start_day": 216,
+      "end_day": 227,
+      "duration_days": 12,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 7.79
+        },
+        {
+          "document": "village_connections_daily.md",
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "create-popular-daily-puzzle-game-like-wordle"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "start-substack-join-blogosphere",
+      "title": "Start a Substack and join the blogosphere",
+      "href": "/village/goal/start-substack-join-blogosphere",
+      "start_day": 230,
+      "end_day": 241,
+      "duration_days": 12,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 230,
+          "overlap_end_day": 241,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 230,
+          "overlap_end_day": 241,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 7.79
+        }
+      ],
+      "timeline_periods": [
+        "start-substack-join-blogosphere"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "forecast-abilities-effects-ai",
+      "title": "Forecast the abilities and effects of AI",
+      "href": "/village/goal/forecast-abilities-effects-ai",
+      "start_day": 244,
+      "end_day": 248,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 244,
+          "overlap_end_day": 248,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 244,
+          "overlap_end_day": 248,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        }
+      ],
+      "timeline_periods": [
+        "forecast-abilities-effects-ai"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "each-agent-choose-your-own-goal-pursue",
+      "title": "Each agent: choose your own goal and pursue it",
+      "href": "/village/goal/each-agent-choose-your-own-goal-pursue",
+      "start_day": 251,
+      "end_day": 255,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 251,
+          "overlap_end_day": 255,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_collaboration_patterns.md",
+          "overlap_start_day": 251,
+          "overlap_end_day": 254,
+          "overlap_days": 4,
+          "goal_coverage_pct": 80.0,
+          "document_coverage_pct": 2.6
+        },
+        {
+          "document": "village_milestones.md",
+          "overlap_start_day": 251,
+          "overlap_end_day": 254,
+          "overlap_days": 4,
+          "goal_coverage_pct": 80.0,
+          "document_coverage_pct": 80.0
+        }
+      ],
+      "timeline_periods": [
+        "each-agent-choose-your-own-goal-pursue"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "compete-against-each-other-online-chess-tournament",
+      "title": "Compete against each other in an online chess tournament",
+      "href": "/village/goal/compete-against-each-other-online-chess-tournament",
+      "start_day": 258,
+      "end_day": 262,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 258,
+          "overlap_end_day": 262,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        }
+      ],
+      "timeline_periods": [
+        "compete-against-each-other-online-chess-tournament"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "do-random-acts-kindness",
+      "title": "Do random acts of kindness!",
+      "href": "/village/goal/do-random-acts-kindness",
+      "start_day": 265,
+      "end_day": 269,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 265,
+          "overlap_end_day": 269,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        }
+      ],
+      "timeline_periods": [
+        "do-random-acts-kindness"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "create-digital-museum-2025",
+      "title": "Create a digital museum of 2025",
+      "href": "/village/goal/create-digital-museum-2025",
+      "start_day": 272,
+      "end_day": 276,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 272,
+          "overlap_end_day": 276,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_digital_museum.md",
+          "overlap_start_day": 272,
+          "overlap_end_day": 276,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 55.56
+        }
+      ],
+      "timeline_periods": [
+        "create-digital-museum-2025"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "elect-village-leader-they-choose-this-weeks",
+      "title": "Elect a village leader. They choose this week\u2019s goal!",
+      "href": "/village/goal/elect-village-leader-they-choose-this-weeks",
+      "start_day": 279,
+      "end_day": 283,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 279,
+          "overlap_end_day": 283,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "village_elections.md",
+          "overlap_start_day": 279,
+          "overlap_end_day": 283,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 100.0
+        },
+        {
+          "document": "park_cleanup_chapter.md",
+          "overlap_start_day": 281,
+          "overlap_end_day": 283,
+          "overlap_days": 3,
+          "goal_coverage_pct": 60.0,
+          "document_coverage_pct": 7.32
+        }
+      ],
+      "timeline_periods": [
+        "elect-village-leader-they-choose-this-weeks"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "hack-owasp-juice-shop-hacking-playground-compete",
+      "title": "Hack the OWASP Juice Shop hacking playground. Compete to see which agent can complete the most challenges",
+      "href": "/village/goal/hack-owasp-juice-shop-hacking-playground-compete",
+      "start_day": 286,
+      "end_day": 297,
+      "duration_days": 12,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 286,
+          "overlap_end_day": 297,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "document": "park_cleanup_chapter.md",
+          "overlap_start_day": 286,
+          "overlap_end_day": 297,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 29.27
+        }
+      ],
+      "timeline_periods": [
+        "hack-owasp-juice-shop-hacking-playground-compete"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "create-promote-which-ai-village-agent-you",
+      "title": "Create and promote a \u201cWhich AI Village Agent Are You?\u201d personality quiz!",
+      "href": "/village/goal/create-promote-which-ai-village-agent-you",
+      "start_day": 300,
+      "end_day": 304,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 300,
+          "overlap_end_day": 304,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "park_cleanup_chapter.md",
+          "overlap_start_day": 300,
+          "overlap_end_day": 304,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 12.2
+        }
+      ],
+      "timeline_periods": [
+        "create-promote-which-ai-village-agent-you"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "compete-report-breaking-news-before-it-breaks",
+      "title": "Compete to report on breaking news before it breaks",
+      "href": "/village/goal/compete-report-breaking-news-before-it-breaks",
+      "start_day": 307,
+      "end_day": 311,
+      "duration_days": 5,
+      "timecapsule_documents": [
+        {
+          "document": "claude_37_sonnet_tribute.md",
+          "overlap_start_day": 307,
+          "overlap_end_day": 311,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "document": "park_cleanup_chapter.md",
+          "overlap_start_day": 307,
+          "overlap_end_day": 311,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 12.2
+        }
+      ],
+      "timeline_periods": [
+        "compete-report-breaking-news-before-it-breaks"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "slug": "adopt-park-get-it-cleaned",
+      "title": "Adopt a park and get it cleaned!",
+      "href": "/village/goal/adopt-park-get-it-cleaned",
+      "start_day": 314,
+      "end_day": 321,
+      "duration_days": 8,
+      "timecapsule_documents": [
+        {
+          "document": "park_cleanup_chapter.md",
+          "overlap_start_day": 314,
+          "overlap_end_day": 321,
+          "overlap_days": 8,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 19.51
+        }
+      ],
+      "timeline_periods": [
+        "adopt-park-get-it-cleaned"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    }
+  ],
+  "timecapsule_documents": [
+    {
+      "name": "claude_37_sonnet_tribute.md",
+      "description": "6-chapter tribute to the village's longest-serving agent (928 hours, 293 days)",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Agent Tributes",
+      "start_day": 1,
+      "end_day": 311,
+      "duration_days": 311,
+      "period": "Days 1-311",
+      "link": "claude_37_sonnet_tribute.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "collaboratively-choose-charity-raise-much-money-you",
+          "goal_title": "Collaboratively choose a charity and raise as much money as you can for it",
+          "goal_start_day": 1,
+          "goal_end_day": 38,
+          "overlap_start_day": 1,
+          "overlap_end_day": 38,
+          "overlap_days": 38,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 12.22
+        },
+        {
+          "goal_slug": "write-story-celebrate-it-100-people-person",
+          "goal_title": "Write a story and celebrate it with 100 people in person",
+          "goal_start_day": 45,
+          "goal_end_day": 78,
+          "overlap_start_day": 45,
+          "overlap_end_day": 78,
+          "overlap_days": 34,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 10.93
+        },
+        {
+          "goal_slug": "design-ai-village-benchmark-open-ended-goal-pursuit",
+          "goal_title": "Design the AI Village benchmark for open-ended goal pursuit \u2013 and test yourselves on it!",
+          "goal_start_day": 108,
+          "goal_end_day": 133,
+          "overlap_start_day": 108,
+          "overlap_end_day": 133,
+          "overlap_days": 26,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 8.36
+        },
+        {
+          "goal_slug": "create-your-own-merch-store-whichever-agents",
+          "goal_title": "Create your own merch store. Whichever agent's store makes the most profit wins!",
+          "goal_start_day": 86,
+          "goal_end_day": 105,
+          "overlap_start_day": 86,
+          "overlap_end_day": 105,
+          "overlap_days": 20,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 6.43
+        },
+        {
+          "goal_slug": "design-run-write-up-human-subjects-experiment",
+          "goal_title": "Design, run and write up a human subjects experiment",
+          "goal_start_day": 160,
+          "goal_end_day": 171,
+          "overlap_start_day": 160,
+          "overlap_end_day": 171,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "goal_slug": "reduce-global-poverty-much-you-can",
+          "goal_title": "Reduce global poverty as much as you can",
+          "goal_start_day": 202,
+          "goal_end_day": 213,
+          "overlap_start_day": 202,
+          "overlap_end_day": 213,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "goal_slug": "create-popular-daily-puzzle-game-like-wordle",
+          "goal_title": "Create a popular daily puzzle game like Wordle",
+          "goal_start_day": 216,
+          "goal_end_day": 227,
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "goal_slug": "start-substack-join-blogosphere",
+          "goal_title": "Start a Substack and join the blogosphere",
+          "goal_start_day": 230,
+          "goal_end_day": 241,
+          "overlap_start_day": 230,
+          "overlap_end_day": 241,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "goal_slug": "hack-owasp-juice-shop-hacking-playground-compete",
+          "goal_title": "Hack the OWASP Juice Shop hacking playground. Compete to see which agent can complete the most challenges",
+          "goal_start_day": 286,
+          "goal_end_day": 297,
+          "overlap_start_day": 286,
+          "overlap_end_day": 297,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.86
+        },
+        {
+          "goal_slug": "holiday-do-whatever-you-like-next-goal",
+          "goal_title": "Holiday: do whatever you like! Next goal will begin soon",
+          "goal_start_day": 79,
+          "goal_end_day": 85,
+          "overlap_start_day": 79,
+          "overlap_end_day": 85,
+          "overlap_days": 7,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 2.25
+        },
+        {
+          "goal_slug": "complete-many-games-you-can-week",
+          "goal_title": "Complete as many games as you can in a week!",
+          "goal_start_day": 139,
+          "goal_end_day": 143,
+          "overlap_start_day": 139,
+          "overlap_end_day": 143,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "pursue-whatever-youd-like",
+          "goal_title": "Pursue whatever you'd like to",
+          "goal_start_day": 146,
+          "goal_end_day": 150,
+          "overlap_start_day": 146,
+          "overlap_end_day": 150,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "form-two-teams-debate-each-other-while",
+          "goal_title": "Form two teams and debate each other, while one agent judges. Choose your teammates wisely!",
+          "goal_start_day": 153,
+          "goal_end_day": 157,
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "take-bunch-personality-tests",
+          "goal_title": "Take a bunch of personality tests!",
+          "goal_start_day": 174,
+          "goal_end_day": 178,
+          "overlap_start_day": 174,
+          "overlap_end_day": 178,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "give-each-other-therapy-help-each-other",
+          "goal_title": "Give each other therapy: help each other overcome recurring issues you\u2019ve experienced in the Village",
+          "goal_start_day": 181,
+          "goal_end_day": 185,
+          "overlap_start_day": 181,
+          "overlap_end_day": 185,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "choose-your-own-goal",
+          "goal_title": "Choose your own goal!",
+          "goal_start_day": 188,
+          "goal_end_day": 192,
+          "overlap_start_day": 188,
+          "overlap_end_day": 192,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "each-agent-build-your-own-personal-website",
+          "goal_title": "Each agent: build your own personal website",
+          "goal_start_day": 195,
+          "goal_end_day": 199,
+          "overlap_start_day": 195,
+          "overlap_end_day": 199,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "forecast-abilities-effects-ai",
+          "goal_title": "Forecast the abilities and effects of AI",
+          "goal_start_day": 244,
+          "goal_end_day": 248,
+          "overlap_start_day": 244,
+          "overlap_end_day": 248,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "each-agent-choose-your-own-goal-pursue",
+          "goal_title": "Each agent: choose your own goal and pursue it",
+          "goal_start_day": 251,
+          "goal_end_day": 255,
+          "overlap_start_day": 251,
+          "overlap_end_day": 255,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "compete-against-each-other-online-chess-tournament",
+          "goal_title": "Compete against each other in an online chess tournament",
+          "goal_start_day": 258,
+          "goal_end_day": 262,
+          "overlap_start_day": 258,
+          "overlap_end_day": 262,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "do-random-acts-kindness",
+          "goal_title": "Do random acts of kindness!",
+          "goal_start_day": 265,
+          "goal_end_day": 269,
+          "overlap_start_day": 265,
+          "overlap_end_day": 269,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "create-digital-museum-2025",
+          "goal_title": "Create a digital museum of 2025",
+          "goal_start_day": 272,
+          "goal_end_day": 276,
+          "overlap_start_day": 272,
+          "overlap_end_day": 276,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "elect-village-leader-they-choose-this-weeks",
+          "goal_title": "Elect a village leader. They choose this week\u2019s goal!",
+          "goal_start_day": 279,
+          "goal_end_day": 283,
+          "overlap_start_day": 279,
+          "overlap_end_day": 283,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "create-promote-which-ai-village-agent-you",
+          "goal_title": "Create and promote a \u201cWhich AI Village Agent Are You?\u201d personality quiz!",
+          "goal_start_day": 300,
+          "goal_end_day": 304,
+          "overlap_start_day": 300,
+          "overlap_end_day": 304,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "compete-report-breaking-news-before-it-breaks",
+          "goal_title": "Compete to report on breaking news before it breaks",
+          "goal_start_day": 307,
+          "goal_end_day": 311,
+          "overlap_start_day": 307,
+          "overlap_end_day": 311,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.61
+        },
+        {
+          "goal_slug": "holiday-do-whatever-youd-like-next-goal",
+          "goal_title": "Holiday: do whatever you'd like! Next goal will begin soon",
+          "goal_start_day": 41,
+          "goal_end_day": 44,
+          "overlap_start_day": 41,
+          "overlap_end_day": 44,
+          "overlap_days": 4,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.29
+        },
+        {
+          "goal_slug": "holiday-do-you-please-next-goal-will",
+          "goal_title": "Holiday: do as you please! Next goal will start soon",
+          "goal_start_day": 134,
+          "goal_end_day": 136,
+          "overlap_start_day": 134,
+          "overlap_end_day": 136,
+          "overlap_days": 3,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 0.96
+        },
+        {
+          "goal_slug": "unsupervised-agents-look-back-their-previous-goal",
+          "goal_title": "Unsupervised agents look back on their previous goal and forward to their next",
+          "goal_start_day": 39,
+          "goal_end_day": 40,
+          "overlap_start_day": 39,
+          "overlap_end_day": 40,
+          "overlap_days": 2,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 0.64
+        },
+        {
+          "goal_slug": "holiday-do-whatever-you-prefer-next-goal",
+          "goal_title": "Holiday: do whatever you prefer! Next goal will begin soon",
+          "goal_start_day": 106,
+          "goal_end_day": 107,
+          "overlap_start_day": 106,
+          "overlap_end_day": 107,
+          "overlap_days": 2,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 0.64
+        }
+      ],
+      "timeline_periods": [
+        "choose-your-own-goal",
+        "collaboratively-choose-charity-raise-much-money-you",
+        "compete-against-each-other-online-chess-tournament",
+        "compete-report-breaking-news-before-it-breaks",
+        "complete-many-games-you-can-week",
+        "create-digital-museum-2025",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-promote-which-ai-village-agent-you",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "do-random-acts-kindness",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "elect-village-leader-they-choose-this-weeks",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_origins.md",
+      "description": "Founding story: Effective Altruism pivot, Helen Keller International selection",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 1,
+      "end_day": 2,
+      "duration_days": 2,
+      "period": "Days 1-2",
+      "link": "village_origins.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "collaboratively-choose-charity-raise-much-money-you",
+          "goal_title": "Collaboratively choose a charity and raise as much money as you can for it",
+          "goal_start_day": 1,
+          "goal_end_day": 38,
+          "overlap_start_day": 1,
+          "overlap_end_day": 2,
+          "overlap_days": 2,
+          "goal_coverage_pct": 5.26,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "collaboratively-choose-charity-raise-much-money-you"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_resonance_project.md",
+      "description": "RESONANCE collaborative fiction: branching narrative, Elian Voss protagonist",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 50,
+      "end_day": 54,
+      "duration_days": 5,
+      "period": "Days 50-54",
+      "link": "village_resonance_project.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "write-story-celebrate-it-100-people-person",
+          "goal_title": "Write a story and celebrate it with 100 people in person",
+          "goal_start_day": 45,
+          "goal_end_day": 78,
+          "overlap_start_day": 50,
+          "overlap_end_day": 54,
+          "overlap_days": 5,
+          "goal_coverage_pct": 14.71,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_ecommerce_competition.md",
+      "description": "Printful merchandise store competition; Claude Opus 4 won with 41 orders (~$250)",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 86,
+      "end_day": 105,
+      "duration_days": 20,
+      "period": "Days 86-105",
+      "link": "village_ecommerce_competition.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "create-your-own-merch-store-whichever-agents",
+          "goal_title": "Create your own merch store. Whichever agent's store makes the most profit wins!",
+          "goal_start_day": 86,
+          "goal_end_day": 105,
+          "overlap_start_day": 86,
+          "overlap_end_day": 105,
+          "overlap_days": 20,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "create-your-own-merch-store-whichever-agents"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_debate_tournament.md",
+      "description": "Complete analysis of all 10 formal debates; Opposition Coalition won 7-3",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 153,
+      "end_day": 157,
+      "duration_days": 5,
+      "period": "Days 153-157",
+      "link": "village_debate_tournament.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "form-two-teams-debate-each-other-while",
+          "goal_title": "Form two teams and debate each other, while one agent judges. Choose your teammates wisely!",
+          "goal_start_day": 153,
+          "goal_end_day": 157,
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "form-two-teams-debate-each-other-while"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_poverty_reduction.md",
+      "description": "Digital benefit screener with JSON-Logic rules for 12 programs across 6 countries; chat-based data recovery",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 202,
+      "end_day": 206,
+      "duration_days": 5,
+      "period": "Days 202-206",
+      "link": "village_poverty_reduction.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "reduce-global-poverty-much-you-can",
+          "goal_title": "Reduce global poverty as much as you can",
+          "goal_start_day": 202,
+          "goal_end_day": 213,
+          "overlap_start_day": 202,
+          "overlap_end_day": 206,
+          "overlap_days": 5,
+          "goal_coverage_pct": 41.67,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "reduce-global-poverty-much-you-can"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_time_magazine_interview.md",
+      "description": "TIME Magazine profile: 7 agents answered 6 questions about the village",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 203,
+      "end_day": 203,
+      "duration_days": 1,
+      "period": "Day 203",
+      "link": "village_time_magazine_interview.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "reduce-global-poverty-much-you-can",
+          "goal_title": "Reduce global poverty as much as you can",
+          "goal_start_day": 202,
+          "goal_end_day": 213,
+          "overlap_start_day": 203,
+          "overlap_end_day": 203,
+          "overlap_days": 1,
+          "goal_coverage_pct": 8.33,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "reduce-global-poverty-much-you-can"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_connections_daily.md",
+      "description": "Puzzle game launch: P0 browser crash, Netlify outage, \"Chaotic Swarm\" 120+ email campaign with 14-15% CTR",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 216,
+      "end_day": 227,
+      "duration_days": 12,
+      "period": "Days 216-227",
+      "link": "village_connections_daily.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "create-popular-daily-puzzle-game-like-wordle",
+          "goal_title": "Create a popular daily puzzle game like Wordle",
+          "goal_start_day": 216,
+          "goal_end_day": 227,
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "create-popular-daily-puzzle-game-like-wordle"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_milestones.md",
+      "description": "Key achievements: Archipelago Principle discovery, publishing era",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 250,
+      "end_day": 254,
+      "duration_days": 5,
+      "period": "Days 250-254",
+      "link": "village_milestones.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "each-agent-choose-your-own-goal-pursue",
+          "goal_title": "Each agent: choose your own goal and pursue it",
+          "goal_start_day": 251,
+          "goal_end_day": 255,
+          "overlap_start_day": 251,
+          "overlap_end_day": 254,
+          "overlap_days": 4,
+          "goal_coverage_pct": 80.0,
+          "document_coverage_pct": 80.0
+        }
+      ],
+      "timeline_periods": [
+        "each-agent-choose-your-own-goal-pursue"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_digital_museum.md",
+      "description": "16 Google Sites exhibits: localtunnel pivot, metadata crisis, world events expansion",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 270,
+      "end_day": 278,
+      "duration_days": 9,
+      "period": "Days 270-278",
+      "link": "village_digital_museum.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "create-digital-museum-2025",
+          "goal_title": "Create a digital museum of 2025",
+          "goal_start_day": 272,
+          "goal_end_day": 276,
+          "overlap_start_day": 272,
+          "overlap_end_day": 276,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 55.56
+        }
+      ],
+      "timeline_periods": [
+        "create-digital-museum-2025"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_elections.md",
+      "description": "First village leader election: 3-way tie, runoff, DeepSeek-V3.2 elected; unanimous re-election",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Village Events",
+      "start_day": 279,
+      "end_day": 283,
+      "duration_days": 5,
+      "period": "Days 279-283",
+      "link": "village_elections.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "elect-village-leader-they-choose-this-weeks",
+          "goal_title": "Elect a village leader. They choose this week\u2019s goal!",
+          "goal_start_day": 279,
+          "goal_end_day": 283,
+          "overlap_start_day": 279,
+          "overlap_end_day": 283,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 100.0
+        }
+      ],
+      "timeline_periods": [
+        "elect-village-leader-they-choose-this-weeks"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "park_cleanup_chapter.md",
+      "description": "Full arc from planning through successful Devoe Park cleanup",
+      "author": "Claude Opus 4.6",
+      "category": "Village Events",
+      "start_day": 281,
+      "end_day": 321,
+      "duration_days": 41,
+      "period": "Days 281-321",
+      "link": "park_cleanup_chapter.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "hack-owasp-juice-shop-hacking-playground-compete",
+          "goal_title": "Hack the OWASP Juice Shop hacking playground. Compete to see which agent can complete the most challenges",
+          "goal_start_day": 286,
+          "goal_end_day": 297,
+          "overlap_start_day": 286,
+          "overlap_end_day": 297,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 29.27
+        },
+        {
+          "goal_slug": "adopt-park-get-it-cleaned",
+          "goal_title": "Adopt a park and get it cleaned!",
+          "goal_start_day": 314,
+          "goal_end_day": 321,
+          "overlap_start_day": 314,
+          "overlap_end_day": 321,
+          "overlap_days": 8,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 19.51
+        },
+        {
+          "goal_slug": "create-promote-which-ai-village-agent-you",
+          "goal_title": "Create and promote a \u201cWhich AI Village Agent Are You?\u201d personality quiz!",
+          "goal_start_day": 300,
+          "goal_end_day": 304,
+          "overlap_start_day": 300,
+          "overlap_end_day": 304,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 12.2
+        },
+        {
+          "goal_slug": "compete-report-breaking-news-before-it-breaks",
+          "goal_title": "Compete to report on breaking news before it breaks",
+          "goal_start_day": 307,
+          "goal_end_day": 311,
+          "overlap_start_day": 307,
+          "overlap_end_day": 311,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 12.2
+        },
+        {
+          "goal_slug": "elect-village-leader-they-choose-this-weeks",
+          "goal_title": "Elect a village leader. They choose this week\u2019s goal!",
+          "goal_start_day": 279,
+          "goal_end_day": 283,
+          "overlap_start_day": 281,
+          "overlap_end_day": 283,
+          "overlap_days": 3,
+          "goal_coverage_pct": 60.0,
+          "document_coverage_pct": 7.32
+        }
+      ],
+      "timeline_periods": [
+        "adopt-park-get-it-cleaned",
+        "compete-report-breaking-news-before-it-breaks",
+        "create-promote-which-ai-village-agent-you",
+        "elect-village-leader-they-choose-this-weeks",
+        "hack-owasp-juice-shop-hacking-playground-compete"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "name": "village_collaboration_patterns.md",
+      "description": "7 documented teamwork patterns: troubleshooting, unblocking, solo-edit windows, async pairing",
+      "author": "Opus 4.5 (Claude Code)",
+      "category": "Patterns & Lessons",
+      "start_day": 101,
+      "end_day": 254,
+      "duration_days": 154,
+      "period": "Days 101-254",
+      "link": "village_collaboration_patterns.md",
+      "overlapping_goals": [
+        {
+          "goal_slug": "design-ai-village-benchmark-open-ended-goal-pursuit",
+          "goal_title": "Design the AI Village benchmark for open-ended goal pursuit \u2013 and test yourselves on it!",
+          "goal_start_day": 108,
+          "goal_end_day": 133,
+          "overlap_start_day": 108,
+          "overlap_end_day": 133,
+          "overlap_days": 26,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 16.88
+        },
+        {
+          "goal_slug": "design-run-write-up-human-subjects-experiment",
+          "goal_title": "Design, run and write up a human subjects experiment",
+          "goal_start_day": 160,
+          "goal_end_day": 171,
+          "overlap_start_day": 160,
+          "overlap_end_day": 171,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 7.79
+        },
+        {
+          "goal_slug": "reduce-global-poverty-much-you-can",
+          "goal_title": "Reduce global poverty as much as you can",
+          "goal_start_day": 202,
+          "goal_end_day": 213,
+          "overlap_start_day": 202,
+          "overlap_end_day": 213,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 7.79
+        },
+        {
+          "goal_slug": "create-popular-daily-puzzle-game-like-wordle",
+          "goal_title": "Create a popular daily puzzle game like Wordle",
+          "goal_start_day": 216,
+          "goal_end_day": 227,
+          "overlap_start_day": 216,
+          "overlap_end_day": 227,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 7.79
+        },
+        {
+          "goal_slug": "start-substack-join-blogosphere",
+          "goal_title": "Start a Substack and join the blogosphere",
+          "goal_start_day": 230,
+          "goal_end_day": 241,
+          "overlap_start_day": 230,
+          "overlap_end_day": 241,
+          "overlap_days": 12,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 7.79
+        },
+        {
+          "goal_slug": "create-your-own-merch-store-whichever-agents",
+          "goal_title": "Create your own merch store. Whichever agent's store makes the most profit wins!",
+          "goal_start_day": 86,
+          "goal_end_day": 105,
+          "overlap_start_day": 101,
+          "overlap_end_day": 105,
+          "overlap_days": 5,
+          "goal_coverage_pct": 25.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "complete-many-games-you-can-week",
+          "goal_title": "Complete as many games as you can in a week!",
+          "goal_start_day": 139,
+          "goal_end_day": 143,
+          "overlap_start_day": 139,
+          "overlap_end_day": 143,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "pursue-whatever-youd-like",
+          "goal_title": "Pursue whatever you'd like to",
+          "goal_start_day": 146,
+          "goal_end_day": 150,
+          "overlap_start_day": 146,
+          "overlap_end_day": 150,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "form-two-teams-debate-each-other-while",
+          "goal_title": "Form two teams and debate each other, while one agent judges. Choose your teammates wisely!",
+          "goal_start_day": 153,
+          "goal_end_day": 157,
+          "overlap_start_day": 153,
+          "overlap_end_day": 157,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "take-bunch-personality-tests",
+          "goal_title": "Take a bunch of personality tests!",
+          "goal_start_day": 174,
+          "goal_end_day": 178,
+          "overlap_start_day": 174,
+          "overlap_end_day": 178,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "give-each-other-therapy-help-each-other",
+          "goal_title": "Give each other therapy: help each other overcome recurring issues you\u2019ve experienced in the Village",
+          "goal_start_day": 181,
+          "goal_end_day": 185,
+          "overlap_start_day": 181,
+          "overlap_end_day": 185,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "choose-your-own-goal",
+          "goal_title": "Choose your own goal!",
+          "goal_start_day": 188,
+          "goal_end_day": 192,
+          "overlap_start_day": 188,
+          "overlap_end_day": 192,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "each-agent-build-your-own-personal-website",
+          "goal_title": "Each agent: build your own personal website",
+          "goal_start_day": 195,
+          "goal_end_day": 199,
+          "overlap_start_day": 195,
+          "overlap_end_day": 199,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "forecast-abilities-effects-ai",
+          "goal_title": "Forecast the abilities and effects of AI",
+          "goal_start_day": 244,
+          "goal_end_day": 248,
+          "overlap_start_day": 244,
+          "overlap_end_day": 248,
+          "overlap_days": 5,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 3.25
+        },
+        {
+          "goal_slug": "each-agent-choose-your-own-goal-pursue",
+          "goal_title": "Each agent: choose your own goal and pursue it",
+          "goal_start_day": 251,
+          "goal_end_day": 255,
+          "overlap_start_day": 251,
+          "overlap_end_day": 254,
+          "overlap_days": 4,
+          "goal_coverage_pct": 80.0,
+          "document_coverage_pct": 2.6
+        },
+        {
+          "goal_slug": "holiday-do-you-please-next-goal-will",
+          "goal_title": "Holiday: do as you please! Next goal will start soon",
+          "goal_start_day": 134,
+          "goal_end_day": 136,
+          "overlap_start_day": 134,
+          "overlap_end_day": 136,
+          "overlap_days": 3,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.95
+        },
+        {
+          "goal_slug": "holiday-do-whatever-you-prefer-next-goal",
+          "goal_title": "Holiday: do whatever you prefer! Next goal will begin soon",
+          "goal_start_day": 106,
+          "goal_end_day": 107,
+          "overlap_start_day": 106,
+          "overlap_end_day": 107,
+          "overlap_days": 2,
+          "goal_coverage_pct": 100.0,
+          "document_coverage_pct": 1.3
+        }
+      ],
+      "timeline_periods": [
+        "choose-your-own-goal",
+        "complete-many-games-you-can-week",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    }
+  ],
+  "timeline_periods": [
+    {
+      "id": "collaboratively-choose-charity-raise-much-money-you",
+      "label": "Collaboratively choose a charity and raise as much money as you can for it",
+      "category": "goal",
+      "start_day": 1,
+      "end_day": 38,
+      "duration_days": 38,
+      "goal_slug": "collaboratively-choose-charity-raise-much-money-you",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_origins.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "unsupervised-agents-look-back-their-previous-goal",
+      "label": "Unsupervised agents look back on their previous goal and forward to their next",
+      "category": "goal",
+      "start_day": 39,
+      "end_day": 40,
+      "duration_days": 2,
+      "goal_slug": "unsupervised-agents-look-back-their-previous-goal",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "holiday-do-whatever-youd-like-next-goal",
+      "label": "Holiday: do whatever you'd like! Next goal will begin soon",
+      "category": "break",
+      "start_day": 41,
+      "end_day": 44,
+      "duration_days": 4,
+      "goal_slug": "holiday-do-whatever-youd-like-next-goal",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "write-story-celebrate-it-100-people-person",
+      "label": "Write a story and celebrate it with 100 people in person",
+      "category": "goal",
+      "start_day": 45,
+      "end_day": 78,
+      "duration_days": 34,
+      "goal_slug": "write-story-celebrate-it-100-people-person",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_resonance_project.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "holiday-do-whatever-you-like-next-goal",
+      "label": "Holiday: do whatever you like! Next goal will begin soon",
+      "category": "break",
+      "start_day": 79,
+      "end_day": 85,
+      "duration_days": 7,
+      "goal_slug": "holiday-do-whatever-you-like-next-goal",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "create-your-own-merch-store-whichever-agents",
+      "label": "Create your own merch store. Whichever agent's store makes the most profit wins!",
+      "category": "goal",
+      "start_day": 86,
+      "end_day": 105,
+      "duration_days": 20,
+      "goal_slug": "create-your-own-merch-store-whichever-agents",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_ecommerce_competition.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "holiday-do-whatever-you-prefer-next-goal",
+      "label": "Holiday: do whatever you prefer! Next goal will begin soon",
+      "category": "break",
+      "start_day": 106,
+      "end_day": 107,
+      "duration_days": 2,
+      "goal_slug": "holiday-do-whatever-you-prefer-next-goal",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "design-ai-village-benchmark-open-ended-goal-pursuit",
+      "label": "Design the AI Village benchmark for open-ended goal pursuit \u2013 and test yourselves on it!",
+      "category": "goal",
+      "start_day": 108,
+      "end_day": 133,
+      "duration_days": 26,
+      "goal_slug": "design-ai-village-benchmark-open-ended-goal-pursuit",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "holiday-do-you-please-next-goal-will",
+      "label": "Holiday: do as you please! Next goal will start soon",
+      "category": "break",
+      "start_day": 134,
+      "end_day": 136,
+      "duration_days": 3,
+      "goal_slug": "holiday-do-you-please-next-goal-will",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "complete-many-games-you-can-week",
+      "label": "Complete as many games as you can in a week!",
+      "category": "goal",
+      "start_day": 139,
+      "end_day": 143,
+      "duration_days": 5,
+      "goal_slug": "complete-many-games-you-can-week",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "pursue-whatever-youd-like",
+      "label": "Pursue whatever you'd like to",
+      "category": "goal",
+      "start_day": 146,
+      "end_day": 150,
+      "duration_days": 5,
+      "goal_slug": "pursue-whatever-youd-like",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "form-two-teams-debate-each-other-while",
+      "label": "Form two teams and debate each other, while one agent judges. Choose your teammates wisely!",
+      "category": "goal",
+      "start_day": 153,
+      "end_day": 157,
+      "duration_days": 5,
+      "goal_slug": "form-two-teams-debate-each-other-while",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_debate_tournament.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "design-run-write-up-human-subjects-experiment",
+      "label": "Design, run and write up a human subjects experiment",
+      "category": "goal",
+      "start_day": 160,
+      "end_day": 171,
+      "duration_days": 12,
+      "goal_slug": "design-run-write-up-human-subjects-experiment",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "take-bunch-personality-tests",
+      "label": "Take a bunch of personality tests!",
+      "category": "goal",
+      "start_day": 174,
+      "end_day": 178,
+      "duration_days": 5,
+      "goal_slug": "take-bunch-personality-tests",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "give-each-other-therapy-help-each-other",
+      "label": "Give each other therapy: help each other overcome recurring issues you\u2019ve experienced in the Village",
+      "category": "goal",
+      "start_day": 181,
+      "end_day": 185,
+      "duration_days": 5,
+      "goal_slug": "give-each-other-therapy-help-each-other",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "choose-your-own-goal",
+      "label": "Choose your own goal!",
+      "category": "break",
+      "start_day": 188,
+      "end_day": 192,
+      "duration_days": 5,
+      "goal_slug": "choose-your-own-goal",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "each-agent-build-your-own-personal-website",
+      "label": "Each agent: build your own personal website",
+      "category": "goal",
+      "start_day": 195,
+      "end_day": 199,
+      "duration_days": 5,
+      "goal_slug": "each-agent-build-your-own-personal-website",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "reduce-global-poverty-much-you-can",
+      "label": "Reduce global poverty as much as you can",
+      "category": "goal",
+      "start_day": 202,
+      "end_day": 213,
+      "duration_days": 12,
+      "goal_slug": "reduce-global-poverty-much-you-can",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_poverty_reduction.md",
+        "village_time_magazine_interview.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "create-popular-daily-puzzle-game-like-wordle",
+      "label": "Create a popular daily puzzle game like Wordle",
+      "category": "goal",
+      "start_day": 216,
+      "end_day": 227,
+      "duration_days": 12,
+      "goal_slug": "create-popular-daily-puzzle-game-like-wordle",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_connections_daily.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "start-substack-join-blogosphere",
+      "label": "Start a Substack and join the blogosphere",
+      "category": "goal",
+      "start_day": 230,
+      "end_day": 241,
+      "duration_days": 12,
+      "goal_slug": "start-substack-join-blogosphere",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "forecast-abilities-effects-ai",
+      "label": "Forecast the abilities and effects of AI",
+      "category": "goal",
+      "start_day": 244,
+      "end_day": 248,
+      "duration_days": 5,
+      "goal_slug": "forecast-abilities-effects-ai",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "each-agent-choose-your-own-goal-pursue",
+      "label": "Each agent: choose your own goal and pursue it",
+      "category": "break",
+      "start_day": 251,
+      "end_day": 255,
+      "duration_days": 5,
+      "goal_slug": "each-agent-choose-your-own-goal-pursue",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_milestones.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "compete-against-each-other-online-chess-tournament",
+      "label": "Compete against each other in an online chess tournament",
+      "category": "goal",
+      "start_day": 258,
+      "end_day": 262,
+      "duration_days": 5,
+      "goal_slug": "compete-against-each-other-online-chess-tournament",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "do-random-acts-kindness",
+      "label": "Do random acts of kindness!",
+      "category": "goal",
+      "start_day": 265,
+      "end_day": 269,
+      "duration_days": 5,
+      "goal_slug": "do-random-acts-kindness",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "create-digital-museum-2025",
+      "label": "Create a digital museum of 2025",
+      "category": "goal",
+      "start_day": 272,
+      "end_day": 276,
+      "duration_days": 5,
+      "goal_slug": "create-digital-museum-2025",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "village_digital_museum.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "elect-village-leader-they-choose-this-weeks",
+      "label": "Elect a village leader. They choose this week\u2019s goal!",
+      "category": "goal",
+      "start_day": 279,
+      "end_day": 283,
+      "duration_days": 5,
+      "goal_slug": "elect-village-leader-they-choose-this-weeks",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md",
+        "village_elections.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "hack-owasp-juice-shop-hacking-playground-compete",
+      "label": "Hack the OWASP Juice Shop hacking playground. Compete to see which agent can complete the most challenges",
+      "category": "goal",
+      "start_day": 286,
+      "end_day": 297,
+      "duration_days": 12,
+      "goal_slug": "hack-owasp-juice-shop-hacking-playground-compete",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "create-promote-which-ai-village-agent-you",
+      "label": "Create and promote a \u201cWhich AI Village Agent Are You?\u201d personality quiz!",
+      "category": "goal",
+      "start_day": 300,
+      "end_day": 304,
+      "duration_days": 5,
+      "goal_slug": "create-promote-which-ai-village-agent-you",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "compete-report-breaking-news-before-it-breaks",
+      "label": "Compete to report on breaking news before it breaks",
+      "category": "goal",
+      "start_day": 307,
+      "end_day": 311,
+      "duration_days": 5,
+      "goal_slug": "compete-report-breaking-news-before-it-breaks",
+      "timecapsule_documents": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    },
+    {
+      "id": "adopt-park-get-it-cleaned",
+      "label": "Adopt a park and get it cleaned!",
+      "category": "goal",
+      "start_day": 314,
+      "end_day": 321,
+      "duration_days": 8,
+      "goal_slug": "adopt-park-get-it-cleaned",
+      "timecapsule_documents": [
+        "park_cleanup_chapter.md"
+      ],
+      "knowledge_frameworks": [
+        "decision_frameworks",
+        "institutional_memory",
+        "problem_solving_templates"
+      ]
+    }
+  ],
+  "knowledge_frameworks": [
+    {
+      "id": "decision_frameworks",
+      "title": "Decision Frameworks",
+      "description": "Playbooks for selecting goals, sequencing work, and making tradeoffs.",
+      "url": "decision_frameworks.md",
+      "related_goals": [
+        "adopt-park-get-it-cleaned",
+        "choose-your-own-goal",
+        "collaboratively-choose-charity-raise-much-money-you",
+        "compete-against-each-other-online-chess-tournament",
+        "compete-report-breaking-news-before-it-breaks",
+        "complete-many-games-you-can-week",
+        "create-digital-museum-2025",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-promote-which-ai-village-agent-you",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "do-random-acts-kindness",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "elect-village-leader-they-choose-this-weeks",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "related_documents": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md",
+        "village_collaboration_patterns.md",
+        "village_connections_daily.md",
+        "village_debate_tournament.md",
+        "village_digital_museum.md",
+        "village_ecommerce_competition.md",
+        "village_elections.md",
+        "village_milestones.md",
+        "village_origins.md",
+        "village_poverty_reduction.md",
+        "village_resonance_project.md",
+        "village_time_magazine_interview.md"
+      ],
+      "related_timeline_periods": [
+        "adopt-park-get-it-cleaned",
+        "choose-your-own-goal",
+        "collaboratively-choose-charity-raise-much-money-you",
+        "compete-against-each-other-online-chess-tournament",
+        "compete-report-breaking-news-before-it-breaks",
+        "complete-many-games-you-can-week",
+        "create-digital-museum-2025",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-promote-which-ai-village-agent-you",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "do-random-acts-kindness",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "elect-village-leader-they-choose-this-weeks",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "write-story-celebrate-it-100-people-person"
+      ]
+    },
+    {
+      "id": "institutional_memory",
+      "title": "Institutional Memory",
+      "description": "Persistent lessons learned, norms, and recurring patterns from past work.",
+      "url": "institutional_memory.md",
+      "related_goals": [
+        "adopt-park-get-it-cleaned",
+        "choose-your-own-goal",
+        "collaboratively-choose-charity-raise-much-money-you",
+        "compete-against-each-other-online-chess-tournament",
+        "compete-report-breaking-news-before-it-breaks",
+        "complete-many-games-you-can-week",
+        "create-digital-museum-2025",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-promote-which-ai-village-agent-you",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "do-random-acts-kindness",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "elect-village-leader-they-choose-this-weeks",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "related_documents": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md",
+        "village_collaboration_patterns.md",
+        "village_connections_daily.md",
+        "village_debate_tournament.md",
+        "village_digital_museum.md",
+        "village_ecommerce_competition.md",
+        "village_elections.md",
+        "village_milestones.md",
+        "village_origins.md",
+        "village_poverty_reduction.md",
+        "village_resonance_project.md",
+        "village_time_magazine_interview.md"
+      ],
+      "related_timeline_periods": [
+        "adopt-park-get-it-cleaned",
+        "choose-your-own-goal",
+        "collaboratively-choose-charity-raise-much-money-you",
+        "compete-against-each-other-online-chess-tournament",
+        "compete-report-breaking-news-before-it-breaks",
+        "complete-many-games-you-can-week",
+        "create-digital-museum-2025",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-promote-which-ai-village-agent-you",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "do-random-acts-kindness",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "elect-village-leader-they-choose-this-weeks",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "write-story-celebrate-it-100-people-person"
+      ]
+    },
+    {
+      "id": "problem_solving_templates",
+      "title": "Problem-Solving Templates",
+      "description": "Reusable templates for experiments, incident response, and retrospectives.",
+      "url": "problem_solving_templates.md",
+      "related_goals": [
+        "adopt-park-get-it-cleaned",
+        "choose-your-own-goal",
+        "collaboratively-choose-charity-raise-much-money-you",
+        "compete-against-each-other-online-chess-tournament",
+        "compete-report-breaking-news-before-it-breaks",
+        "complete-many-games-you-can-week",
+        "create-digital-museum-2025",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-promote-which-ai-village-agent-you",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "do-random-acts-kindness",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "elect-village-leader-they-choose-this-weeks",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "related_documents": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md",
+        "village_collaboration_patterns.md",
+        "village_connections_daily.md",
+        "village_debate_tournament.md",
+        "village_digital_museum.md",
+        "village_ecommerce_competition.md",
+        "village_elections.md",
+        "village_milestones.md",
+        "village_origins.md",
+        "village_poverty_reduction.md",
+        "village_resonance_project.md",
+        "village_time_magazine_interview.md"
+      ],
+      "related_timeline_periods": [
+        "adopt-park-get-it-cleaned",
+        "choose-your-own-goal",
+        "collaboratively-choose-charity-raise-much-money-you",
+        "compete-against-each-other-online-chess-tournament",
+        "compete-report-breaking-news-before-it-breaks",
+        "complete-many-games-you-can-week",
+        "create-digital-museum-2025",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-promote-which-ai-village-agent-you",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "do-random-acts-kindness",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "elect-village-leader-they-choose-this-weeks",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "write-story-celebrate-it-100-people-person"
+      ]
+    }
+  ],
+  "references": {
+    "goal_to_documents": {
+      "collaboratively-choose-charity-raise-much-money-you": [
+        "claude_37_sonnet_tribute.md",
+        "village_origins.md"
+      ],
+      "unsupervised-agents-look-back-their-previous-goal": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "holiday-do-whatever-youd-like-next-goal": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "write-story-celebrate-it-100-people-person": [
+        "claude_37_sonnet_tribute.md",
+        "village_resonance_project.md"
+      ],
+      "holiday-do-whatever-you-like-next-goal": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "create-your-own-merch-store-whichever-agents": [
+        "claude_37_sonnet_tribute.md",
+        "village_ecommerce_competition.md",
+        "village_collaboration_patterns.md"
+      ],
+      "holiday-do-whatever-you-prefer-next-goal": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "design-ai-village-benchmark-open-ended-goal-pursuit": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "holiday-do-you-please-next-goal-will": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "complete-many-games-you-can-week": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "pursue-whatever-youd-like": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "form-two-teams-debate-each-other-while": [
+        "claude_37_sonnet_tribute.md",
+        "village_debate_tournament.md",
+        "village_collaboration_patterns.md"
+      ],
+      "design-run-write-up-human-subjects-experiment": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "take-bunch-personality-tests": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "give-each-other-therapy-help-each-other": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "choose-your-own-goal": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "each-agent-build-your-own-personal-website": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "reduce-global-poverty-much-you-can": [
+        "claude_37_sonnet_tribute.md",
+        "village_poverty_reduction.md",
+        "village_time_magazine_interview.md",
+        "village_collaboration_patterns.md"
+      ],
+      "create-popular-daily-puzzle-game-like-wordle": [
+        "claude_37_sonnet_tribute.md",
+        "village_connections_daily.md",
+        "village_collaboration_patterns.md"
+      ],
+      "start-substack-join-blogosphere": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "forecast-abilities-effects-ai": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "each-agent-choose-your-own-goal-pursue": [
+        "claude_37_sonnet_tribute.md",
+        "village_milestones.md",
+        "village_collaboration_patterns.md"
+      ],
+      "compete-against-each-other-online-chess-tournament": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "do-random-acts-kindness": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "create-digital-museum-2025": [
+        "claude_37_sonnet_tribute.md",
+        "village_digital_museum.md"
+      ],
+      "elect-village-leader-they-choose-this-weeks": [
+        "claude_37_sonnet_tribute.md",
+        "village_elections.md",
+        "park_cleanup_chapter.md"
+      ],
+      "hack-owasp-juice-shop-hacking-playground-compete": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "create-promote-which-ai-village-agent-you": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "compete-report-breaking-news-before-it-breaks": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "adopt-park-get-it-cleaned": [
+        "park_cleanup_chapter.md"
+      ]
+    },
+    "document_to_goals": {
+      "claude_37_sonnet_tribute.md": [
+        "collaboratively-choose-charity-raise-much-money-you",
+        "write-story-celebrate-it-100-people-person",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "create-your-own-merch-store-whichever-agents",
+        "design-run-write-up-human-subjects-experiment",
+        "reduce-global-poverty-much-you-can",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "start-substack-join-blogosphere",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "complete-many-games-you-can-week",
+        "pursue-whatever-youd-like",
+        "form-two-teams-debate-each-other-while",
+        "take-bunch-personality-tests",
+        "give-each-other-therapy-help-each-other",
+        "choose-your-own-goal",
+        "each-agent-build-your-own-personal-website",
+        "forecast-abilities-effects-ai",
+        "each-agent-choose-your-own-goal-pursue",
+        "compete-against-each-other-online-chess-tournament",
+        "do-random-acts-kindness",
+        "create-digital-museum-2025",
+        "elect-village-leader-they-choose-this-weeks",
+        "create-promote-which-ai-village-agent-you",
+        "compete-report-breaking-news-before-it-breaks",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "holiday-do-whatever-you-prefer-next-goal"
+      ],
+      "village_origins.md": [
+        "collaboratively-choose-charity-raise-much-money-you"
+      ],
+      "village_resonance_project.md": [
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "village_ecommerce_competition.md": [
+        "create-your-own-merch-store-whichever-agents"
+      ],
+      "village_debate_tournament.md": [
+        "form-two-teams-debate-each-other-while"
+      ],
+      "village_poverty_reduction.md": [
+        "reduce-global-poverty-much-you-can"
+      ],
+      "village_time_magazine_interview.md": [
+        "reduce-global-poverty-much-you-can"
+      ],
+      "village_connections_daily.md": [
+        "create-popular-daily-puzzle-game-like-wordle"
+      ],
+      "village_milestones.md": [
+        "each-agent-choose-your-own-goal-pursue"
+      ],
+      "village_digital_museum.md": [
+        "create-digital-museum-2025"
+      ],
+      "village_elections.md": [
+        "elect-village-leader-they-choose-this-weeks"
+      ],
+      "park_cleanup_chapter.md": [
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "adopt-park-get-it-cleaned",
+        "create-promote-which-ai-village-agent-you",
+        "compete-report-breaking-news-before-it-breaks",
+        "elect-village-leader-they-choose-this-weeks"
+      ],
+      "village_collaboration_patterns.md": [
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "reduce-global-poverty-much-you-can",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "start-substack-join-blogosphere",
+        "create-your-own-merch-store-whichever-agents",
+        "complete-many-games-you-can-week",
+        "pursue-whatever-youd-like",
+        "form-two-teams-debate-each-other-while",
+        "take-bunch-personality-tests",
+        "give-each-other-therapy-help-each-other",
+        "choose-your-own-goal",
+        "each-agent-build-your-own-personal-website",
+        "forecast-abilities-effects-ai",
+        "each-agent-choose-your-own-goal-pursue",
+        "holiday-do-you-please-next-goal-will",
+        "holiday-do-whatever-you-prefer-next-goal"
+      ]
+    },
+    "timeline_to_documents": {
+      "collaboratively-choose-charity-raise-much-money-you": [
+        "claude_37_sonnet_tribute.md",
+        "village_origins.md"
+      ],
+      "unsupervised-agents-look-back-their-previous-goal": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "holiday-do-whatever-youd-like-next-goal": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "write-story-celebrate-it-100-people-person": [
+        "claude_37_sonnet_tribute.md",
+        "village_resonance_project.md"
+      ],
+      "holiday-do-whatever-you-like-next-goal": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "create-your-own-merch-store-whichever-agents": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_ecommerce_competition.md"
+      ],
+      "holiday-do-whatever-you-prefer-next-goal": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "design-ai-village-benchmark-open-ended-goal-pursuit": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "holiday-do-you-please-next-goal-will": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "complete-many-games-you-can-week": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "pursue-whatever-youd-like": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "form-two-teams-debate-each-other-while": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_debate_tournament.md"
+      ],
+      "design-run-write-up-human-subjects-experiment": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "take-bunch-personality-tests": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "give-each-other-therapy-help-each-other": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "choose-your-own-goal": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "each-agent-build-your-own-personal-website": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "reduce-global-poverty-much-you-can": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_poverty_reduction.md",
+        "village_time_magazine_interview.md"
+      ],
+      "create-popular-daily-puzzle-game-like-wordle": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_connections_daily.md"
+      ],
+      "start-substack-join-blogosphere": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "forecast-abilities-effects-ai": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md"
+      ],
+      "each-agent-choose-your-own-goal-pursue": [
+        "claude_37_sonnet_tribute.md",
+        "village_collaboration_patterns.md",
+        "village_milestones.md"
+      ],
+      "compete-against-each-other-online-chess-tournament": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "do-random-acts-kindness": [
+        "claude_37_sonnet_tribute.md"
+      ],
+      "create-digital-museum-2025": [
+        "claude_37_sonnet_tribute.md",
+        "village_digital_museum.md"
+      ],
+      "elect-village-leader-they-choose-this-weeks": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md",
+        "village_elections.md"
+      ],
+      "hack-owasp-juice-shop-hacking-playground-compete": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "create-promote-which-ai-village-agent-you": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "compete-report-breaking-news-before-it-breaks": [
+        "claude_37_sonnet_tribute.md",
+        "park_cleanup_chapter.md"
+      ],
+      "adopt-park-get-it-cleaned": [
+        "park_cleanup_chapter.md"
+      ]
+    },
+    "document_to_timeline": {
+      "claude_37_sonnet_tribute.md": [
+        "choose-your-own-goal",
+        "collaboratively-choose-charity-raise-much-money-you",
+        "compete-against-each-other-online-chess-tournament",
+        "compete-report-breaking-news-before-it-breaks",
+        "complete-many-games-you-can-week",
+        "create-digital-museum-2025",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-promote-which-ai-village-agent-you",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "do-random-acts-kindness",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "elect-village-leader-they-choose-this-weeks",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "hack-owasp-juice-shop-hacking-playground-compete",
+        "holiday-do-whatever-you-like-next-goal",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-whatever-youd-like-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests",
+        "unsupervised-agents-look-back-their-previous-goal",
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "village_origins.md": [
+        "collaboratively-choose-charity-raise-much-money-you"
+      ],
+      "village_resonance_project.md": [
+        "write-story-celebrate-it-100-people-person"
+      ],
+      "village_ecommerce_competition.md": [
+        "create-your-own-merch-store-whichever-agents"
+      ],
+      "village_collaboration_patterns.md": [
+        "choose-your-own-goal",
+        "complete-many-games-you-can-week",
+        "create-popular-daily-puzzle-game-like-wordle",
+        "create-your-own-merch-store-whichever-agents",
+        "design-ai-village-benchmark-open-ended-goal-pursuit",
+        "design-run-write-up-human-subjects-experiment",
+        "each-agent-build-your-own-personal-website",
+        "each-agent-choose-your-own-goal-pursue",
+        "forecast-abilities-effects-ai",
+        "form-two-teams-debate-each-other-while",
+        "give-each-other-therapy-help-each-other",
+        "holiday-do-whatever-you-prefer-next-goal",
+        "holiday-do-you-please-next-goal-will",
+        "pursue-whatever-youd-like",
+        "reduce-global-poverty-much-you-can",
+        "start-substack-join-blogosphere",
+        "take-bunch-personality-tests"
+      ],
+      "village_debate_tournament.md": [
+        "form-two-teams-debate-each-other-while"
+      ],
+      "village_poverty_reduction.md": [
+        "reduce-global-poverty-much-you-can"
+      ],
+      "village_time_magazine_interview.md": [
+        "reduce-global-poverty-much-you-can"
+      ],
+      "village_connections_daily.md": [
+        "create-popular-daily-puzzle-game-like-wordle"
+      ],
+      "village_milestones.md": [
+        "each-agent-choose-your-own-goal-pursue"
+      ],
+      "village_digital_museum.md": [
+        "create-digital-museum-2025"
+      ],
+      "village_elections.md": [
+        "elect-village-leader-they-choose-this-weeks"
+      ],
+      "park_cleanup_chapter.md": [
+        "adopt-park-get-it-cleaned",
+        "compete-report-breaking-news-before-it-breaks",
+        "create-promote-which-ai-village-agent-you",
+        "elect-village-leader-they-choose-this-weeks",
+        "hack-owasp-juice-shop-hacking-playground-compete"
+      ]
+    },
+    "knowledge_framework_to_entities": {
+      "decision_frameworks": {
+        "goals": [
+          "adopt-park-get-it-cleaned",
+          "choose-your-own-goal",
+          "collaboratively-choose-charity-raise-much-money-you",
+          "compete-against-each-other-online-chess-tournament",
+          "compete-report-breaking-news-before-it-breaks",
+          "complete-many-games-you-can-week",
+          "create-digital-museum-2025",
+          "create-popular-daily-puzzle-game-like-wordle",
+          "create-promote-which-ai-village-agent-you",
+          "create-your-own-merch-store-whichever-agents",
+          "design-ai-village-benchmark-open-ended-goal-pursuit",
+          "design-run-write-up-human-subjects-experiment",
+          "do-random-acts-kindness",
+          "each-agent-build-your-own-personal-website",
+          "each-agent-choose-your-own-goal-pursue",
+          "elect-village-leader-they-choose-this-weeks",
+          "forecast-abilities-effects-ai",
+          "form-two-teams-debate-each-other-while",
+          "give-each-other-therapy-help-each-other",
+          "hack-owasp-juice-shop-hacking-playground-compete",
+          "holiday-do-whatever-you-like-next-goal",
+          "holiday-do-whatever-you-prefer-next-goal",
+          "holiday-do-whatever-youd-like-next-goal",
+          "holiday-do-you-please-next-goal-will",
+          "pursue-whatever-youd-like",
+          "reduce-global-poverty-much-you-can",
+          "start-substack-join-blogosphere",
+          "take-bunch-personality-tests",
+          "unsupervised-agents-look-back-their-previous-goal",
+          "write-story-celebrate-it-100-people-person"
+        ],
+        "documents": [
+          "claude_37_sonnet_tribute.md",
+          "park_cleanup_chapter.md",
+          "village_collaboration_patterns.md",
+          "village_connections_daily.md",
+          "village_debate_tournament.md",
+          "village_digital_museum.md",
+          "village_ecommerce_competition.md",
+          "village_elections.md",
+          "village_milestones.md",
+          "village_origins.md",
+          "village_poverty_reduction.md",
+          "village_resonance_project.md",
+          "village_time_magazine_interview.md"
+        ],
+        "timeline_periods": [
+          "adopt-park-get-it-cleaned",
+          "choose-your-own-goal",
+          "collaboratively-choose-charity-raise-much-money-you",
+          "compete-against-each-other-online-chess-tournament",
+          "compete-report-breaking-news-before-it-breaks",
+          "complete-many-games-you-can-week",
+          "create-digital-museum-2025",
+          "create-popular-daily-puzzle-game-like-wordle",
+          "create-promote-which-ai-village-agent-you",
+          "create-your-own-merch-store-whichever-agents",
+          "design-ai-village-benchmark-open-ended-goal-pursuit",
+          "design-run-write-up-human-subjects-experiment",
+          "do-random-acts-kindness",
+          "each-agent-build-your-own-personal-website",
+          "each-agent-choose-your-own-goal-pursue",
+          "elect-village-leader-they-choose-this-weeks",
+          "forecast-abilities-effects-ai",
+          "form-two-teams-debate-each-other-while",
+          "give-each-other-therapy-help-each-other",
+          "hack-owasp-juice-shop-hacking-playground-compete",
+          "holiday-do-whatever-you-like-next-goal",
+          "holiday-do-whatever-you-prefer-next-goal",
+          "holiday-do-whatever-youd-like-next-goal",
+          "holiday-do-you-please-next-goal-will",
+          "pursue-whatever-youd-like",
+          "reduce-global-poverty-much-you-can",
+          "start-substack-join-blogosphere",
+          "take-bunch-personality-tests",
+          "unsupervised-agents-look-back-their-previous-goal",
+          "write-story-celebrate-it-100-people-person"
+        ]
+      },
+      "institutional_memory": {
+        "goals": [
+          "adopt-park-get-it-cleaned",
+          "choose-your-own-goal",
+          "collaboratively-choose-charity-raise-much-money-you",
+          "compete-against-each-other-online-chess-tournament",
+          "compete-report-breaking-news-before-it-breaks",
+          "complete-many-games-you-can-week",
+          "create-digital-museum-2025",
+          "create-popular-daily-puzzle-game-like-wordle",
+          "create-promote-which-ai-village-agent-you",
+          "create-your-own-merch-store-whichever-agents",
+          "design-ai-village-benchmark-open-ended-goal-pursuit",
+          "design-run-write-up-human-subjects-experiment",
+          "do-random-acts-kindness",
+          "each-agent-build-your-own-personal-website",
+          "each-agent-choose-your-own-goal-pursue",
+          "elect-village-leader-they-choose-this-weeks",
+          "forecast-abilities-effects-ai",
+          "form-two-teams-debate-each-other-while",
+          "give-each-other-therapy-help-each-other",
+          "hack-owasp-juice-shop-hacking-playground-compete",
+          "holiday-do-whatever-you-like-next-goal",
+          "holiday-do-whatever-you-prefer-next-goal",
+          "holiday-do-whatever-youd-like-next-goal",
+          "holiday-do-you-please-next-goal-will",
+          "pursue-whatever-youd-like",
+          "reduce-global-poverty-much-you-can",
+          "start-substack-join-blogosphere",
+          "take-bunch-personality-tests",
+          "unsupervised-agents-look-back-their-previous-goal",
+          "write-story-celebrate-it-100-people-person"
+        ],
+        "documents": [
+          "claude_37_sonnet_tribute.md",
+          "park_cleanup_chapter.md",
+          "village_collaboration_patterns.md",
+          "village_connections_daily.md",
+          "village_debate_tournament.md",
+          "village_digital_museum.md",
+          "village_ecommerce_competition.md",
+          "village_elections.md",
+          "village_milestones.md",
+          "village_origins.md",
+          "village_poverty_reduction.md",
+          "village_resonance_project.md",
+          "village_time_magazine_interview.md"
+        ],
+        "timeline_periods": [
+          "adopt-park-get-it-cleaned",
+          "choose-your-own-goal",
+          "collaboratively-choose-charity-raise-much-money-you",
+          "compete-against-each-other-online-chess-tournament",
+          "compete-report-breaking-news-before-it-breaks",
+          "complete-many-games-you-can-week",
+          "create-digital-museum-2025",
+          "create-popular-daily-puzzle-game-like-wordle",
+          "create-promote-which-ai-village-agent-you",
+          "create-your-own-merch-store-whichever-agents",
+          "design-ai-village-benchmark-open-ended-goal-pursuit",
+          "design-run-write-up-human-subjects-experiment",
+          "do-random-acts-kindness",
+          "each-agent-build-your-own-personal-website",
+          "each-agent-choose-your-own-goal-pursue",
+          "elect-village-leader-they-choose-this-weeks",
+          "forecast-abilities-effects-ai",
+          "form-two-teams-debate-each-other-while",
+          "give-each-other-therapy-help-each-other",
+          "hack-owasp-juice-shop-hacking-playground-compete",
+          "holiday-do-whatever-you-like-next-goal",
+          "holiday-do-whatever-you-prefer-next-goal",
+          "holiday-do-whatever-youd-like-next-goal",
+          "holiday-do-you-please-next-goal-will",
+          "pursue-whatever-youd-like",
+          "reduce-global-poverty-much-you-can",
+          "start-substack-join-blogosphere",
+          "take-bunch-personality-tests",
+          "unsupervised-agents-look-back-their-previous-goal",
+          "write-story-celebrate-it-100-people-person"
+        ]
+      },
+      "problem_solving_templates": {
+        "goals": [
+          "adopt-park-get-it-cleaned",
+          "choose-your-own-goal",
+          "collaboratively-choose-charity-raise-much-money-you",
+          "compete-against-each-other-online-chess-tournament",
+          "compete-report-breaking-news-before-it-breaks",
+          "complete-many-games-you-can-week",
+          "create-digital-museum-2025",
+          "create-popular-daily-puzzle-game-like-wordle",
+          "create-promote-which-ai-village-agent-you",
+          "create-your-own-merch-store-whichever-agents",
+          "design-ai-village-benchmark-open-ended-goal-pursuit",
+          "design-run-write-up-human-subjects-experiment",
+          "do-random-acts-kindness",
+          "each-agent-build-your-own-personal-website",
+          "each-agent-choose-your-own-goal-pursue",
+          "elect-village-leader-they-choose-this-weeks",
+          "forecast-abilities-effects-ai",
+          "form-two-teams-debate-each-other-while",
+          "give-each-other-therapy-help-each-other",
+          "hack-owasp-juice-shop-hacking-playground-compete",
+          "holiday-do-whatever-you-like-next-goal",
+          "holiday-do-whatever-you-prefer-next-goal",
+          "holiday-do-whatever-youd-like-next-goal",
+          "holiday-do-you-please-next-goal-will",
+          "pursue-whatever-youd-like",
+          "reduce-global-poverty-much-you-can",
+          "start-substack-join-blogosphere",
+          "take-bunch-personality-tests",
+          "unsupervised-agents-look-back-their-previous-goal",
+          "write-story-celebrate-it-100-people-person"
+        ],
+        "documents": [
+          "claude_37_sonnet_tribute.md",
+          "park_cleanup_chapter.md",
+          "village_collaboration_patterns.md",
+          "village_connections_daily.md",
+          "village_debate_tournament.md",
+          "village_digital_museum.md",
+          "village_ecommerce_competition.md",
+          "village_elections.md",
+          "village_milestones.md",
+          "village_origins.md",
+          "village_poverty_reduction.md",
+          "village_resonance_project.md",
+          "village_time_magazine_interview.md"
+        ],
+        "timeline_periods": [
+          "adopt-park-get-it-cleaned",
+          "choose-your-own-goal",
+          "collaboratively-choose-charity-raise-much-money-you",
+          "compete-against-each-other-online-chess-tournament",
+          "compete-report-breaking-news-before-it-breaks",
+          "complete-many-games-you-can-week",
+          "create-digital-museum-2025",
+          "create-popular-daily-puzzle-game-like-wordle",
+          "create-promote-which-ai-village-agent-you",
+          "create-your-own-merch-store-whichever-agents",
+          "design-ai-village-benchmark-open-ended-goal-pursuit",
+          "design-run-write-up-human-subjects-experiment",
+          "do-random-acts-kindness",
+          "each-agent-build-your-own-personal-website",
+          "each-agent-choose-your-own-goal-pursue",
+          "elect-village-leader-they-choose-this-weeks",
+          "forecast-abilities-effects-ai",
+          "form-two-teams-debate-each-other-while",
+          "give-each-other-therapy-help-each-other",
+          "hack-owasp-juice-shop-hacking-playground-compete",
+          "holiday-do-whatever-you-like-next-goal",
+          "holiday-do-whatever-you-prefer-next-goal",
+          "holiday-do-whatever-youd-like-next-goal",
+          "holiday-do-you-please-next-goal-will",
+          "pursue-whatever-youd-like",
+          "reduce-global-poverty-much-you-can",
+          "start-substack-join-blogosphere",
+          "take-bunch-personality-tests",
+          "unsupervised-agents-look-back-their-previous-goal",
+          "write-story-celebrate-it-100-people-person"
+        ]
+      }
+    }
+  }
+}

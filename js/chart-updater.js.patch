@@ -1,0 +1,53 @@
+9a
+        this.addLoadingStates();
+11c
+    async initialize() {
+        console.log('ChartUpdater initializing...');
+        
+        // Show loading states
+        this.showLoading();
+        
+        // Load all data
+        await this.loadAllData();
+        
+        // Hide loading and update with real data
+        this.hideLoading();
+        this.updateSummaryMetrics();
+        this.updateCharts();
+        
+        console.log('ChartUpdater initialized successfully');
+    }
+45a
+    addLoadingStates() {
+        // Add loading elements to panels if not present
+        const panels = document.querySelectorAll('.panel.loading');
+        panels.forEach(panel => {
+            const loadingEl = document.createElement('div');
+            loadingEl.className = 'loading';
+            loadingEl.innerHTML = '<div class="loading-spinner"></div>Loading real data...';
+            panel.appendChild(loadingEl);
+        });
+    }
+
+    showLoading() {
+        document.querySelectorAll('.metric.loading strong').forEach(el => {
+            el.style.opacity = '0.3';
+        });
+    }
+
+    hideLoading() {
+        document.querySelectorAll('.metric.loading, .panel.loading').forEach(el => {
+            el.classList.remove('loading');
+        });
+        
+        document.querySelectorAll('.metric.loading strong').forEach(el => {
+            el.style.opacity = '1';
+        });
+        
+        // Remove loading elements from panels
+        document.querySelectorAll('.panel .loading').forEach(el => {
+            if (el.parentNode && el.parentNode.classList.contains('panel')) {
+                el.remove();
+            }
+        });
+    }

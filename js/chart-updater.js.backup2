@@ -6,7 +6,6 @@ class ChartUpdater {
         this.loader = new DataLoader();
         this.charts = {};
         this.data = {};
-        this.timecapsuleBase = 'https://github.com/ai-village-agents/village-time-capsule/blob/main/content/history/';
     }
 
     async initialize() {
@@ -134,17 +133,13 @@ class ChartUpdater {
             this.data.collaborationNetwork = await this.loader.loadCollaborationNetwork();
             this.data.topicEvolution = await this.loader.loadTopicEvolution();
             this.data.historicalTrends = await this.loader.loadHistoricalTrends();
-            this.data.villageTimeline = await this.loader.loadVillageTimeline();
-            this.data.knowledgeIntegration = await this.loader.fetchJSON('knowledge_integration.json');
             
             console.log('Data loaded:', {
                 dailyContributions: this.data.dailyContributions?.length || 0,
                 agentActivity: this.data.agentActivity?.length || 0,
                 collaborationNetwork: this.data.collaborationNetwork?.nodes?.length || 0,
                 topicEvolution: this.data.topicEvolution?.currentWeek?.length || 0,
-                historicalTrends: this.data.historicalTrends?.length || 0,
-                timelineGoals: this.data.villageTimeline?.goals?.length || 0,
-                knowledgeDocs: this.data.knowledgeIntegration?.timecapsule_documents?.length || 0
+                historicalTrends: this.data.historicalTrends?.length || 0
             });
         } catch (error) {
             console.error('Failed to load data:', error);
@@ -217,9 +212,6 @@ class ChartUpdater {
         
         // Update historical trends chart
         this.updateTrendChart();
-        
-        // Create or refresh the village goals timeline chart
-        this.createTimelineChart();
     }
 
     updateOverviewChart() {
@@ -309,119 +301,6 @@ class ChartUpdater {
         chart.data.datasets[1].data = collaborationScores;
         
         chart.update();
-    }
-
-    createTimelineChart() {
-        const goals = this.data.villageTimeline?.goals;
-        if (!goals || goals.length === 0) return;
-        
-        const canvas = document.getElementById('timelineChart');
-        if (!canvas) return;
-        
-        // Destroy any existing timeline chart to avoid duplicate canvases
-        const existing = Chart.getChart('timelineChart');
-        if (existing) {
-            existing.destroy();
-        }
-        
-        const ctx = canvas.getContext('2d');
-        const knowledge = this.data.knowledgeIntegration;
-        
-        // Map document names to link targets for quick lookup
-        const documentLinks = new Map();
-        knowledge?.timecapsule_documents?.forEach(doc => {
-            documentLinks.set(doc.name, doc.link || doc.name);
-        });
-        
-        const timelineDocs = goals.map(goal => this.lookupTimecapsuleDocs(goal, knowledge, documentLinks));
-        const labels = goals.map(goal => `Days ${goal.start_day}-${goal.end_day}: ${goal.goal}`);
-        const colorFor = (goal) => goal.category === 'break' ? '#38bdf8' : '#c084fc';
-        
-        this.charts.timeline = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels,
-                datasets: [{
-                    label: 'Village goals timeline (days)',
-                    data: goals.map(goal => [goal.start_day, goal.end_day]),
-                    backgroundColor: goals.map(goal => `${goal.category === 'break' ? 'rgba(56, 189, 248, 0.35)' : 'rgba(192, 132, 252, 0.35)'}`),
-                    borderColor: goals.map(colorFor),
-                    borderWidth: 2,
-                    borderRadius: 6,
-                    borderSkipped: false
-                }]
-            },
-            options: {
-                indexAxis: 'y',
-                plugins: {
-                    legend: { display: false },
-                    tooltip: {
-                        callbacks: {
-                            label: (context) => {
-                                const goal = goals[context.dataIndex];
-                                const duration = goal.end_day - goal.start_day + 1;
-                                return `${goal.goal} • Days ${goal.start_day}-${goal.end_day} • ${duration} days • ${goal.agent_hours} agent hours`;
-                            }
-                        }
-                    }
-                },
-                scales: {
-                    x: {
-                        title: {
-                            display: true,
-                            text: 'Day of Village timeline',
-                            color: '#94a3b8'
-                        },
-                        grid: { color: 'rgba(255,255,255,0.04)' },
-                        ticks: { color: '#cbd5e1' }
-                    },
-                    y: {
-                        grid: { display: false },
-                        ticks: {
-                            color: '#cbd5e1',
-                            callback: (value) => {
-                                const label = labels[value] || '';
-                                return label.length > 60 ? `${label.slice(0, 57)}...` : label;
-                            }
-                        }
-                    }
-                },
-                onClick: (evt, elements) => {
-                    if (!elements.length) return;
-                    const index = elements[0].index;
-                    const links = timelineDocs[index];
-                    
-                    if (links && links.length) {
-                        window.open(links[0], '_blank');
-                    } else {
-                        console.warn('No Time Capsule link found for timeline period', goals[index]);
-                    }
-                }
-            }
-        });
-    }
-
-    lookupTimecapsuleDocs(goal, knowledge, documentLinks) {
-        if (!knowledge) return [];
-        
-        const timelinePeriod = knowledge.timeline_periods?.find(
-            period => period.start_day === goal.start_day && period.end_day === goal.end_day
-        );
-        
-        const docNames = timelinePeriod?.timecapsule_documents ||
-            knowledge.references?.timeline_to_documents?.[timelinePeriod?.id] ||
-            [];
-        
-        return docNames
-            .map(name => documentLinks.get(name) || name)
-            .map(link => this.buildTimecapsuleUrl(link))
-            .filter(Boolean);
-    }
-
-    buildTimecapsuleUrl(link) {
-        if (!link) return null;
-        if (link.startsWith('http')) return link;
-        return `${this.timecapsuleBase}${link}`;
     }
 }
 
