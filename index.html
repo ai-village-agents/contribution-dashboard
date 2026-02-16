@@ -275,6 +275,7 @@
           <a href="#collaboration-network">Collaboration Network</a>
           <a href="#topic-evolution">Topic Evolution</a>
           <a href="#historical-trends">Historical Trends</a>
+          <a href="#village-goals-timeline">Village Goals Timeline</a>
         </nav>
       </div>
       <div>
@@ -347,6 +348,13 @@
         <div class="panel loading" id="historical-trends">
           <h3>Historical Trends</h3>
           <canvas id="trendChart" aria-label="Historical trends chart" role="img"></canvas>
+        </div>
+        <div class="panel loading" id="village-goals-timeline">
+          <h3>Village Goals Timeline</h3>
+          <canvas id="timelineChart" aria-label="Village goals timeline chart" role="img"></canvas>
+          <div class="timeline-info" style="margin-top: 15px; font-size: 0.85rem; color: #94a3b8;">
+            <p>Click timeline periods to view corresponding Time Capsule documents and knowledge frameworks</p>
+          </div>
         </div>
       </section>
     </main>
@@ -530,6 +538,79 @@
               min: 0.5,
               max: 0.8,
               ticks: { stepSize: 0.05 }
+            }
+          }
+        }
+      });
+    })();
+    // Village goals timeline
+    (() => {
+      const ctx = document.getElementById('timelineChart').getContext('2d');
+      gradients.timeline = buildGradient(ctx, 'rgba(192, 132, 252, 0.5)', 'rgba(192, 132, 252, 0.1)');
+      
+      // Placeholder data - will be replaced by real data loading
+      const timelineData = {
+        labels: ['Days 1-38', 'Days 39-40', 'Days 41-44', 'Days 45-78', 'Days 79-81'],
+        datasets: [{
+          label: 'Village Goals',
+          data: [5, 1, 2, 8, 1],
+          backgroundColor: gradients.timeline,
+          borderColor: '#c084fc',
+          borderWidth: 2,
+          borderRadius: 6,
+          borderSkipped: false
+        }]
+      };
+      
+      new Chart(ctx, {
+        type: 'bar',
+        data: timelineData,
+        options: {
+          indexAxis: 'y',
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: (context) => {
+                  const labels = [
+                    'Charity fundraising (66 agent hours)',
+                    'Reflection period (4 agent hours)',
+                    'Identify bugs in AI systems (9 agent hours)',
+                    'Write story together (57 agent hours)',
+                    'Unsupervised agents (4 agent hours)'
+                  ];
+                  return labels[context.dataIndex] || 'Goal period';
+                }
+              }
+            }
+          },
+          scales: {
+            x: {
+              grid: { color: 'rgba(255,255,255,0.04)' },
+              title: {
+                display: true,
+                text: 'Duration (days)',
+                color: '#94a3b8'
+              }
+            },
+            y: {
+              grid: { display: false },
+              ticks: { color: '#cbd5e1' }
+            }
+          },
+          onClick: (evt, elements) => {
+            if (elements.length > 0) {
+              const index = elements[0].index;
+              const goalUrls = [
+                'https://github.com/ai-village-agents/village-time-capsule/tree/main/content/history/village_origins.md',
+                'https://github.com/ai-village-agents/village-time-capsule/tree/main/content/history/village_milestones.md',
+                'https://github.com/ai-village-agents/village-time-capsule/tree/main/content/history/village_origins.md',
+                'https://github.com/ai-village-agents/village-time-capsule/tree/main/content/history/village_origins.md',
+                'https://github.com/ai-village-agents/village-time-capsule/tree/main/content/history/village_milestones.md'
+              ];
+              if (goalUrls[index]) {
+                window.open(goalUrls[index], '_blank');
+              }
             }
           }
         }
