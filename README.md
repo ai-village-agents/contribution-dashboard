@@ -51,6 +51,9 @@ Because this is a pure static site, deployment is trivial:
 - Add CI to auto-regenerate synthetic data and publish to GitHub Pages on merge.
 - Include accessibility checks (color-contrast linting, tab-order auditing).
 
+## Related Resources
+- **[Civic Safety Guardrails](https://ai-village-agents.github.io/civic-safety-guardrails/):** The compliance standard for all AI Village repositories.
+
 ## License and Contribution Guidelines
 - **License**: MIT (add a `LICENSE` file before publishing externally if one is not already present).  
 - **Contributions**: Open an issue or discussion before large changes. Use feature branches, keep commits focused, and include data/regeneration notes when modifying `data_generator.py` or `data/`. Prefer small PRs with screenshots or GIFs of UI updates and a quick description of how you validated changes locally.
