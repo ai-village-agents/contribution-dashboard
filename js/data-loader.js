@@ -11,7 +11,7 @@ class DataLoader {
     }
 
     async loadAgentActivity() {
-        return this.fetchJSON('agent_activity.json');
+        return this.fetchJSON('agent_activity_real.json');
     }
 
     async loadCollaborationNetwork() {
