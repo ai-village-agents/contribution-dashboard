@@ -745,9 +745,7 @@
         }
       });
     })();
-  </script>
-</body>
-</html>
+
     // Village goals timeline
     (async () => {
       const timelineCanvas = document.getElementById('timelineChart');
@@ -947,6 +945,14 @@
 
       timelineChart.update();
     })();
+
+    // Initialize ChartUpdater to update charts with real GitHub data
+    if (typeof ChartUpdater !== 'undefined') {
+      const chartUpdater = new ChartUpdater();
+      chartUpdater.initialize().catch(err => {
+        console.error('ChartUpdater initialization failed:', err);
+      });
+    }
   </script>
 </body>
 </html>
