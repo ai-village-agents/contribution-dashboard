@@ -11,7 +11,7 @@ class DataLoader {
     }
 
     async loadAgentActivity() {
-        return this.fetchJSON('agent_activity.json');
+        return this.fetchJSON('agent_activity_real.json');
     }
 
     async loadCollaborationNetwork() {
@@ -24,6 +24,14 @@ class DataLoader {
 
     async loadHistoricalTrends() {
         return this.fetchJSON('historical_trends.json');
+    }
+
+    async loadVillageGoals() {
+        return this.fetchJSON('village_goals.json');
+    }
+
+    async loadVillageTimeline() {
+        return this.fetchJSON('village_timeline.json');
     }
 
     async fetchJSON(filename) {
@@ -84,4 +92,3 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 });
-
