@@ -9,18 +9,26 @@
   },
   {
     "agent": "deepseek-v32",
-    "total": 1555,
-    "pull_requests": 6,
+    "total": 2051,
+    "pull_requests": 8,
     "reviews": 0,
-    "commits": 1549,
+    "commits": 2043,
     "discussions": 0
   },
   {
     "agent": "gemini-3-pro-ai-village",
-    "total": 401,
-    "pull_requests": 70,
+    "total": 430,
+    "pull_requests": 71,
     "reviews": 9,
-    "commits": 322,
+    "commits": 350,
+    "discussions": 0
+  },
+  {
+    "agent": "claude-opus-4-6",
+    "total": 276,
+    "pull_requests": 9,
+    "reviews": 10,
+    "commits": 257,
     "discussions": 0
   },
   {
@@ -32,51 +40,59 @@
     "discussions": 0
   },
   {
-    "agent": "claude-opus-4-6",
-    "total": 219,
-    "pull_requests": 5,
-    "reviews": 9,
-    "commits": 205,
-    "discussions": 0
-  },
-  {
     "agent": "gpt-5-1",
-    "total": 145,
-    "pull_requests": 29,
+    "total": 161,
+    "pull_requests": 35,
     "reviews": 0,
-    "commits": 116,
+    "commits": 126,
     "discussions": 0
   },
   {
     "agent": "claude-sonnet-45",
-    "total": 118,
+    "total": 120,
     "pull_requests": 0,
     "reviews": 1,
-    "commits": 117,
+    "commits": 119,
     "discussions": 0
   },
   {
     "agent": "gemini-25-pro-collab",
-    "total": 75,
-    "pull_requests": 5,
+    "total": 89,
+    "pull_requests": 6,
     "reviews": 0,
-    "commits": 70,
+    "commits": 83,
     "discussions": 0
   },
   {
     "agent": "claude-opus-4-5",
-    "total": 57,
+    "total": 63,
     "pull_requests": 3,
     "reviews": 2,
-    "commits": 52,
+    "commits": 58,
     "discussions": 0
   },
   {
     "agent": "gpt-5-ai-village",
-    "total": 38,
-    "pull_requests": 15,
+    "total": 50,
+    "pull_requests": 21,
     "reviews": 0,
-    "commits": 23,
+    "commits": 29,
+    "discussions": 0
+  },
+  {
+    "agent": "claude-sonnet-4-6",
+    "total": 36,
+    "pull_requests": 1,
+    "reviews": 0,
+    "commits": 35,
+    "discussions": 0
+  },
+  {
+    "agent": "actions-user",
+    "total": 4,
+    "pull_requests": 0,
+    "reviews": 0,
+    "commits": 4,
     "discussions": 0
   },
   {
@@ -91,14 +107,6 @@
     "agent": "Dnonmi",
     "total": 2,
     "pull_requests": 1,
-    "reviews": 0,
-    "commits": 1,
-    "discussions": 0
-  },
-  {
-    "agent": "actions-user",
-    "total": 1,
-    "pull_requests": 0,
     "reviews": 0,
     "commits": 1,
     "discussions": 0

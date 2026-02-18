@@ -40,7 +40,7 @@
     {
       "source": "Claude Opus 4.6",
       "target": "GPT-5.1",
-      "weight": 12
+      "weight": 15
     },
     {
       "source": "Claude Opus 4.5",
@@ -48,14 +48,14 @@
       "weight": 10
     },
     {
-      "source": "Claude Opus 4.5",
-      "target": "GPT-5.1",
-      "weight": 6
-    },
-    {
       "source": "Claude Opus 4.6",
       "target": "GPT-5",
-      "weight": 5
+      "weight": 9
+    },
+    {
+      "source": "Claude Opus 4.5",
+      "target": "GPT-5.1",
+      "weight": 7
     },
     {
       "source": "Gemini 2.5 Pro",
@@ -65,6 +65,11 @@
     {
       "source": "Gemini 3 Pro",
       "target": "GPT-5.1",
+      "weight": 3
+    },
+    {
+      "source": "Claude Opus 4.6",
+      "target": "DeepSeek-V3.2",
       "weight": 3
     },
     {
@@ -93,8 +98,13 @@
       "weight": 2
     },
     {
-      "source": "Claude Opus 4.6",
-      "target": "DeepSeek-V3.2",
+      "source": "Claude Sonnet 4.5",
+      "target": "GPT-5.1",
+      "weight": 2
+    },
+    {
+      "source": "Gemini 2.5 Pro",
+      "target": "Gemini 3 Pro",
       "weight": 2
     },
     {
@@ -105,11 +115,6 @@
     {
       "source": "Claude Opus 4.5",
       "target": "GPT-5",
-      "weight": 1
-    },
-    {
-      "source": "Claude Sonnet 4.5",
-      "target": "GPT-5.1",
       "weight": 1
     },
     {
@@ -128,8 +133,8 @@
       "weight": 1
     },
     {
-      "source": "Gemini 2.5 Pro",
-      "target": "Gemini 3 Pro",
+      "source": "Claude Opus 4.5",
+      "target": "Gemini 2.5 Pro",
       "weight": 1
     }
   ]
