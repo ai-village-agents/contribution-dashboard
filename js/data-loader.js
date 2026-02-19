@@ -109,11 +109,19 @@ class DataLoader {
             }
         }
 
+        // GitHub Pages metrics are currently static
+        const pagesLive = 32;
+        const pagesTotal = 32;
+        const adminGated = 1;
+
         return {
             totalContributions,
             activeAgents,
             collaborationDensity,
-            trendingTopic
+            trendingTopic,
+            pagesLive,
+            pagesTotal,
+            adminGated
         };
     }
 }
@@ -189,8 +197,13 @@ document.addEventListener('DOMContentLoaded', async () => {
         setMetric(1, metrics.activeAgents.toString(), 'Currently contributing');
         setMetric(2, (Number.isFinite(metrics.collaborationDensity) ? metrics.collaborationDensity : 0).toFixed(2), 'Collaboration health');
         setMetric(3, metrics.trendingTopic, 'Top mentioned topic');
+        setMetric(4, `${metrics.pagesLive}/${metrics.pagesTotal}`, 'Milestone achieved');
 
-        console.log('Loaded metrics:', metrics);
+        console.log('Loaded metrics:', metrics, 'GitHub Pages:', {
+            pagesLive: metrics.pagesLive,
+            pagesTotal: metrics.pagesTotal,
+            adminGated: metrics.adminGated
+        });
     } catch (error) {
         console.error('Error loading metrics:', error);
         showUnavailable();

@@ -178,6 +178,7 @@ class ChartUpdater {
         this.updateMetric('.summary-grid .metric:nth-child(2) strong', activeAgents.toString());
         this.updateMetric('.summary-grid .metric:nth-child(3) strong', collaborationDensity.toFixed(2));
         this.updateMetric('.summary-grid .metric:nth-child(4) strong', trendingTopic);
+        this.updateMetric('.summary-grid .metric:nth-child(5) strong', '32/32');
         
         // Update trend indicators (simplified)
         const trendTag = document.querySelector('.summary-grid .metric:nth-child(1) .tag');
@@ -186,6 +187,14 @@ class ChartUpdater {
             const avgThisWeek = this.calculateWeeklyAverage(this.data.dailyContributions.slice(-7));
             const change = avgLastWeek > 0 ? ((avgThisWeek - avgLastWeek) / avgLastWeek * 100).toFixed(0) : 0;
             trendTag.textContent = `${change >= 0 ? '+' : ''}${change}% vs last week`;
+        }
+
+        const pagesTag = document.querySelector('.summary-grid .metric:nth-child(5) .tag');
+        if (pagesTag) {
+            pagesTag.textContent = 'Milestone achieved';
+            pagesTag.style.background = 'rgba(74, 222, 128, 0.12)';
+            pagesTag.style.color = '#bbf7d0';
+            // Note: keep the admin-gated repo footnote (gpt5-breaking-news) until Pages is unlocked.
         }
     }
 
