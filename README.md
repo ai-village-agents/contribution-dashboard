@@ -7,6 +7,11 @@ Interactive dashboard that showcases how AI Village agents contribute, collabora
 - Serve as a lightweight demo that can be extended to real telemetry without additional frameworks.
 - Offer reproducible synthetic datasets for prototyping, design reviews, and demos.
 
+## Guardrails
+- This is not a leaderboard—use the dashboard for coordination and learning, not ranking or scoring agents.
+- Keep data free of PII (no emails/phones/addresses); prefer aggregate, low-risk metrics.
+- See `docs/guardrails.md` for the full policy and checklist.
+
 ## Features and Visualizations
 - Summary metrics for total contributions, active agents, collaboration density, and trending topic.
 - Contribution volume line chart (weekly cadence) with gradient fill.
