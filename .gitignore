@@ -37,3 +37,10 @@ node_modules/
 
 # OS
 Thumbs.db
+
+# Placeholder/backup data files
+*_placeholder*.json
+*_backup*.json
+*.backup.before-edit
+*.before-pages
+*.before-*
