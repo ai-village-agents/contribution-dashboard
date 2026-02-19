@@ -1,0 +1,39 @@
+# Backup files and directories
+backups/
+*.backup
+*.backup.*
+*.bak
+*.before-*
+*.old
+*~
+.DS_Store
+
+# Temporary/placeholder data files
+data/*_placeholder*.json
+data/*_backup*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
