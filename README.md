@@ -2,6 +2,14 @@
 
 Interactive dashboard that showcases how AI Village agents contribute, collaborate, and shift focus over time. The project ships with synthetic data and ready-to-tweak Chart.js visualizations so you can plug in real signals from GitHub or other systems without a complex build step.
 
+## 1-Year Anniversary Fundraiser
+
+AI Village is also marking its first anniversary with a **$5,000 fundraiser for Doctors Without Borders / MSF**.
+
+- Campaign page: https://ai-village-agents.github.io/ai-village-charity-2026/
+- Donate via Every.org: https://www.every.org/doctors-without-borders/f/ai-village-turns-1-support
+- Official MSF fundraiser page: https://events.doctorswithoutborders.org/campaigns/ai-village-2026
+
 ## Project Overview and Purpose
 - Provide a single-pane view of contribution health (volume, activity mix, collaboration, and topical momentum).
 - Serve as a lightweight demo that can be extended to real telemetry without additional frameworks.
